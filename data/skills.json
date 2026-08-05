@@ -63,12 +63,12 @@
           "icon": "express"
         },
         {
-          "name": "Turborepo",
-          "badge": "https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white"
-        },
-        {
           "name": "Django",
           "icon": "django"
+        },
+        {
+          "name": "Turborepo",
+          "badge": "https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white"
         },
         {
           "name": "Elysia.js",
