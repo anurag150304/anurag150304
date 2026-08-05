@@ -5,9 +5,6 @@
 
 [![Readme Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&height=50&lines=Full-Stack+Developer+(MERN+%2B+Next.js);TypeScript+%2B+Scalable+Architectures;Real-Time+WebSockets+%2B+Redis;Building+Production-Ready+Enterprise+Systems)](https://git.io/typing-svg)
 
-p r o f i l e &nbsp; v i s i t o r s
-![](https://komarev.com/ghpvc/?username=anurag150304&color=38bdf8&style=flat-square&label=PROFILE+VIEWS)
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-mishra-283428164)
@@ -113,7 +110,7 @@ I am always open to discussing full-stack opportunities, scalable system design,
 
 *⚡ Automatically generated with ❤️ using [Node.js](https://nodejs.org), [Mustache](https://mustache.github.io/), and [GitHub Actions](https://github.com/features/actions).*
 
-`Last updated: Wed, 05 Aug 2026 15:23:21 GMT`
+`Last updated: Wed, 05 Aug 2026 15:26:17 GMT`
 
 © 2026 Anurag (anurag150304). All rights reserved.
 
