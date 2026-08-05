@@ -4,80 +4,208 @@
     {
       "title": "💻 Languages",
       "skills": [
-        { "name": "TypeScript", "icon": "ts" },
-        { "name": "JavaScript", "icon": "js" },
-        { "name": "Python", "icon": "py" },
-        { "name": "Java", "icon": "java" },
-        { "name": "HTML", "icon": "html" },
-        { "name": "CSS", "icon": "css" }
+        {
+          "name": "TypeScript",
+          "icon": "ts"
+        },
+        {
+          "name": "Python",
+          "icon": "py"
+        },
+        {
+          "name": "Java",
+          "icon": "java"
+        },
+        {
+          "name": "C",
+          "icon": "c"
+        }
       ]
     },
     {
       "title": "🎨 Frontend",
       "skills": [
-        { "name": "React", "icon": "react" },
-        { "name": "Next.js", "icon": "nextjs" },
-        { "name": "Tailwind CSS", "icon": "tailwind" },
-        { "name": "Redux", "icon": "redux" },
-        { "name": "Zustand", "badge": "https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" },
-        { "name": "Vite", "icon": "vite" },
-        { "name": "Shadcn UI", "badge": "https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" }
+        {
+          "name": "React",
+          "icon": "react"
+        },
+        {
+          "name": "Next.js",
+          "icon": "nextjs"
+        },
+        {
+          "name": "Vite",
+          "icon": "vite"
+        },
+        {
+          "name": "Tailwind CSS",
+          "icon": "tailwind"
+        },
+        {
+          "name": "Zustand",
+          "badge": "https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white"
+        },
+        {
+          "name": "Shadcn UI",
+          "badge": "https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white"
+        }
       ]
     },
     {
       "title": "⚙️ Backend",
       "skills": [
-        { "name": "Node.js", "icon": "nodejs" },
-        { "name": "Express.js", "icon": "express" },
-        { "name": "Prisma", "icon": "prisma" },
-        { "name": "Socket.IO", "badge": "https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" },
-        { "name": "WebSockets", "badge": "https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" },
-        { "name": "Google Apps Script", "badge": "https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" }
+        {
+          "name": "Node.js",
+          "icon": "nodejs"
+        },
+        {
+          "name": "Express.js",
+          "icon": "express"
+        },
+        {
+          "name": "Elysia.js",
+          "badge": "https://img.shields.io/badge/Elysia.js-010101?style=for-the-badge&logo=elysiajs&logoColor=white"
+        },
+        {
+          "name": "Django",
+          "icon": "django"
+        },
+        {
+          "name": "WebSockets",
+          "badge": "https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"
+        },
+        {
+          "name": "Socket.IO",
+          "badge": "https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"
+        }
       ]
     },
     {
-      "title": "🗄️ Databases",
+      "title": "🗄️ Databases & ORMs",
       "skills": [
-        { "name": "PostgreSQL", "icon": "postgres" },
-        { "name": "MongoDB", "icon": "mongodb" },
-        { "name": "Redis", "icon": "redis" }
+        {
+          "name": "PostgreSQL",
+          "icon": "postgres"
+        },
+        {
+          "name": "MongoDB",
+          "icon": "mongodb"
+        },
+        {
+          "name": "Redis",
+          "icon": "redis"
+        },
+        {
+          "name": "Prisma",
+          "icon": "prisma"
+        },
+        {
+          "name": "Mongoose",
+          "badge": "https://img.shields.io/badge/Mongoose-010101?style=for-the-badge&logo=mongodb&logoColor=white"
+        }
       ]
     },
     {
       "title": "☁️ DevOps & Cloud",
       "skills": [
-        { "name": "Docker", "icon": "docker" },
-        { "name": "AWS", "icon": "aws" },
-        { "name": "Git", "icon": "git" },
-        { "name": "GitHub", "icon": "github" },
-        { "name": "GitHub Actions", "icon": "githubactions" },
-        { "name": "Linux", "icon": "linux" },
-        { "name": "Nginx", "icon": "nginx" },
-        { "name": "Postman", "icon": "postman" },
-        { "name": "npm", "icon": "npm" },
-        { "name": "pnpm", "icon": "pnpm" }
+        {
+          "name": "Docker",
+          "icon": "docker"
+        },
+        {
+          "name": "Git",
+          "icon": "git"
+        },
+        {
+          "name": "GitHub",
+          "icon": "github"
+        },
+        {
+          "name": "GitHub Actions",
+          "icon": "githubactions"
+        },
+        {
+          "name": "Linux",
+          "icon": "linux"
+        },
+        {
+          "name": "Nginx",
+          "icon": "nginx"
+        },
+        {
+          "name": "AWS",
+          "icon": "aws"
+        },
+        {
+          "name": "npm",
+          "icon": "npm"
+        },
+        {
+          "name": "pnpm",
+          "icon": "pnpm"
+        },
+        {
+          "name": "bun",
+          "icon": "bun"
+        }
       ]
     },
     {
       "title": "🤖 AI & Machine Learning",
       "skills": [
-        { "name": "NumPy", "badge": "https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" },
-        { "name": "Pandas", "badge": "https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" },
-        { "name": "Matplotlib", "badge": "https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" },
-        { "name": "Scikit-learn", "badge": "https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" },
-        { "name": "Jupyter", "badge": "https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" },
-        { "name": "OpenAI", "badge": "https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" },
-        { "name": "Google Gemini", "badge": "https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" },
-        { "name": "Vertex AI", "badge": "https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" }
+        {
+          "name": "NumPy",
+          "badge": "https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
+        },
+        {
+          "name": "Pandas",
+          "badge": "https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
+        },
+        {
+          "name": "Matplotlib",
+          "badge": "https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"
+        },
+        {
+          "name": "Scikit-learn",
+          "badge": "https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"
+        },
+        {
+          "name": "Jupyter",
+          "badge": "https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"
+        },
+        {
+          "name": "OpenAI",
+          "badge": "https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"
+        },
+        {
+          "name": "Claude",
+          "badge": "https://img.shields.io/badge/Claude-4285F4?style=for-the-badge&logo=claude&logoColor=white"
+        },
+        {
+          "name": "Google Gemini",
+          "badge": "https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"
+        }
       ]
     },
     {
       "title": "🛠️ Tools & Platforms",
       "skills": [
-        { "name": "VS Code", "icon": "vscode" },
-        { "name": "Cursor", "badge": "https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" },
-        { "name": "Figma", "icon": "figma" },
-        { "name": "Markdown", "icon": "md" }
+        {
+          "name": "VS Code",
+          "icon": "vscode"
+        },
+        {
+          "name": "Cursor",
+          "badge": "https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"
+        },
+        {
+          "name": "Postman",
+          "icon": "postman"
+        },
+        {
+          "name": "Notion",
+          "icon": "notion"
+        }
       ]
     }
   ]

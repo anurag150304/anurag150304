@@ -108,10 +108,6 @@
             "icon": "ts"
           },
           {
-            "name": "JavaScript",
-            "icon": "js"
-          },
-          {
             "name": "Python",
             "icon": "py"
           },
@@ -120,12 +116,8 @@
             "icon": "java"
           },
           {
-            "name": "HTML",
-            "icon": "html"
-          },
-          {
-            "name": "CSS",
-            "icon": "css"
+            "name": "C",
+            "icon": "c"
           }
         ]
       },
@@ -141,20 +133,16 @@
             "icon": "nextjs"
           },
           {
+            "name": "Vite",
+            "icon": "vite"
+          },
+          {
             "name": "Tailwind CSS",
             "icon": "tailwind"
           },
           {
-            "name": "Redux",
-            "icon": "redux"
-          },
-          {
             "name": "Zustand",
             "badge": "https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white"
-          },
-          {
-            "name": "Vite",
-            "icon": "vite"
           },
           {
             "name": "Shadcn UI",
@@ -174,25 +162,25 @@
             "icon": "express"
           },
           {
-            "name": "Prisma",
-            "icon": "prisma"
+            "name": "Elysia.js",
+            "badge": "https://img.shields.io/badge/Elysia.js-010101?style=for-the-badge&logo=elysiajs&logoColor=white"
           },
           {
-            "name": "Socket.IO",
-            "badge": "https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"
+            "name": "Django",
+            "icon": "django"
           },
           {
             "name": "WebSockets",
             "badge": "https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"
           },
           {
-            "name": "Google Apps Script",
-            "badge": "https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white"
+            "name": "Socket.IO",
+            "badge": "https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"
           }
         ]
       },
       {
-        "title": "🗄️ Databases",
+        "title": "🗄️ Databases & ORMs",
         "skills": [
           {
             "name": "PostgreSQL",
@@ -205,6 +193,14 @@
           {
             "name": "Redis",
             "icon": "redis"
+          },
+          {
+            "name": "Prisma",
+            "icon": "prisma"
+          },
+          {
+            "name": "Mongoose",
+            "badge": "https://img.shields.io/badge/Mongoose-010101?style=for-the-badge&logo=mongodb&logoColor=white"
           }
         ]
       },
@@ -214,10 +210,6 @@
           {
             "name": "Docker",
             "icon": "docker"
-          },
-          {
-            "name": "AWS",
-            "icon": "aws"
           },
           {
             "name": "Git",
@@ -240,8 +232,8 @@
             "icon": "nginx"
           },
           {
-            "name": "Postman",
-            "icon": "postman"
+            "name": "AWS",
+            "icon": "aws"
           },
           {
             "name": "npm",
@@ -250,6 +242,10 @@
           {
             "name": "pnpm",
             "icon": "pnpm"
+          },
+          {
+            "name": "bun",
+            "icon": "bun"
           }
         ]
       },
@@ -281,12 +277,12 @@
             "badge": "https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"
           },
           {
-            "name": "Google Gemini",
-            "badge": "https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"
+            "name": "Claude",
+            "badge": "https://img.shields.io/badge/Claude-4285F4?style=for-the-badge&logo=claude&logoColor=white"
           },
           {
-            "name": "Vertex AI",
-            "badge": "https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"
+            "name": "Google Gemini",
+            "badge": "https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"
           }
         ]
       },
@@ -302,12 +298,12 @@
             "badge": "https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"
           },
           {
-            "name": "Figma",
-            "icon": "figma"
+            "name": "Postman",
+            "icon": "postman"
           },
           {
-            "name": "Markdown",
-            "icon": "md"
+            "name": "Notion",
+            "icon": "notion"
           }
         ]
       }
@@ -457,7 +453,7 @@
     "🔨 Pushed to [anurag150304/anurag150304](https://github.com/anurag150304/anurag150304): *\"Updated codebase\"*",
     "🔨 Pushed to [anurag150304/anurag150304](https://github.com/anurag150304/anurag150304): *\"Updated codebase\"*",
     "🔨 Pushed to [anurag150304/anurag150304](https://github.com/anurag150304/anurag150304): *\"Updated codebase\"*",
-    "🚀 Created branch in [anurag150304/anurag150304](https://github.com/anurag150304/anurag150304)"
+    "🔨 Pushed to [anurag150304/anurag150304](https://github.com/anurag150304/anurag150304): *\"Updated codebase\"*"
   ],
   "blog": [
     {
@@ -480,8 +476,8 @@
     }
   ],
   "quote": {
-    "quote": "Simplicity is prerequisite for reliability.",
-    "author": "Edsger W. Dijkstra"
+    "quote": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck"
   },
   "coding": {
     "totalHours": "38 hrs 45 mins (This Week)",
@@ -509,6 +505,6 @@
       }
     ]
   },
-  "lastUpdated": "Wed, 05 Aug 2026 16:14:19 GMT",
+  "lastUpdated": "Wed, 05 Aug 2026 16:40:46 GMT",
   "generatedYear": 2026
 }

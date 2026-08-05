@@ -49,21 +49,18 @@ Full-Stack Engineer specializing in Next.js, MERN with TypeScript, passionate ab
 ### 💻 Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=py" title="Python" alt="Python" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
 </p>
 
 ### 🎨 Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://skillicons.dev/icons?i=redux" title="Redux" alt="Redux" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" title="Zustand" alt="Zustand" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" title="Zustand" alt="Zustand" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" title="Shadcn UI" alt="Shadcn UI" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
 </p>
 
@@ -71,31 +68,33 @@ Full-Stack Engineer specializing in Next.js, MERN with TypeScript, passionate ab
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express.js" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://skillicons.dev/icons?i=prisma" title="Prisma" alt="Prisma" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" title="Socket.IO" alt="Socket.IO" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Elysia.js-010101?style=for-the-badge&logo=elysiajs&logoColor=white" title="Elysia.js" alt="Elysia.js" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://skillicons.dev/icons?i=django" title="Django" alt="Django" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" title="WebSockets" alt="WebSockets" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" title="Google Apps Script" alt="Google Apps Script" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" title="Socket.IO" alt="Socket.IO" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & ORMs
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://skillicons.dev/icons?i=prisma" title="Prisma" alt="Prisma" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Mongoose-010101?style=for-the-badge&logo=mongodb&logoColor=white" title="Mongoose" alt="Mongoose" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
 </p>
 
 ### ☁️ DevOps & Cloud
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" alt="Nginx" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=npm" title="npm" alt="npm" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=pnpm" title="pnpm" alt="pnpm" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://skillicons.dev/icons?i=bun" title="bun" alt="bun" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
 </p>
 
 ### 🤖 AI & Machine Learning
@@ -106,16 +105,16 @@ Full-Stack Engineer specializing in Next.js, MERN with TypeScript, passionate ab
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" title="Scikit-learn" alt="Scikit-learn" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" title="Jupyter" alt="Jupyter" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" title="OpenAI" alt="OpenAI" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Claude-4285F4?style=for-the-badge&logo=claude&logoColor=white" title="Claude" alt="Claude" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" title="Google Gemini" alt="Google Gemini" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" title="Vertex AI" alt="Vertex AI" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" title="Cursor" alt="Cursor" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://skillicons.dev/icons?i=md" title="Markdown" alt="Markdown" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://skillicons.dev/icons?i=notion" title="Notion" alt="Notion" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
 </p>
 
 ---
@@ -148,7 +147,7 @@ I am always open to discussing full-stack opportunities, scalable system design,
 
 *⚡ Automatically generated with ❤️ using [Node.js](https://nodejs.org), [Mustache](https://mustache.github.io/), and [GitHub Actions](https://github.com/features/actions).*
 
-`Last updated: Wed, 05 Aug 2026 16:14:19 GMT`
+`Last updated: Wed, 05 Aug 2026 16:40:46 GMT`
 
 © 2026 Anurag (anurag150304). All rights reserved.
 
