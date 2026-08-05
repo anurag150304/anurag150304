@@ -162,12 +162,12 @@
             "icon": "express"
           },
           {
-            "name": "Turborepo",
-            "badge": "https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white"
-          },
-          {
             "name": "Django",
             "icon": "django"
+          },
+          {
+            "name": "Turborepo",
+            "badge": "https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white"
           },
           {
             "name": "Elysia.js",
@@ -350,31 +350,37 @@
     ]
   },
   "learning": {
-    "title": "Learning Roadmap & Technical Aspirations (2026)",
+    "title": "Currently Learning & Building",
     "items": [
       {
-        "topic": "Distributed Systems & Event-Driven Architecture",
-        "status": "In Progress",
-        "progress": "85%",
-        "details": "Deepening Kafka event streaming, Redis cluster scaling, and distributed locks."
+        "topic": "Machine Learning & Deep Learning",
+        "status": "Currently Learning",
+        "progress": "In Progress",
+        "details": "Building strong foundations in Machine Learning, Deep Learning, optimization techniques, and practical model development with Python."
       },
       {
-        "topic": "Kubernetes & Cloud Infrastructure Automation",
-        "status": "In Progress",
-        "progress": "70%",
-        "details": "Deploying microservices with K8s, Helm charts, and terraform on AWS."
+        "topic": "Generative AI, RAG & Agentic AI",
+        "status": "Actively Exploring",
+        "progress": "In Progress",
+        "details": "Developing AI-powered applications using LLMs, Retrieval-Augmented Generation (RAG), context engineering, prompt engineering, and autonomous AI agents."
       },
       {
-        "topic": "Advanced Database Optimization & Sharding",
-        "status": "Next Up",
-        "progress": "60%",
-        "details": "Mastering PostgreSQL indexing strategies, connection pooling with PgBouncer, and horizontal sharding."
+        "topic": "Distributed Systems & Scalable Backend Architecture",
+        "status": "Continuously Improving",
+        "progress": "Ongoing",
+        "details": "Deepening expertise in event-driven systems, caching, asynchronous communication, real-time architectures, and designing scalable backend services."
       },
       {
-        "topic": "System Design & Low-Level Design (LLD)",
+        "topic": "Cloud Native, DevOps & Infrastructure",
+        "status": "Next Focus",
+        "progress": "Planned",
+        "details": "Learning Kubernetes, container orchestration, cloud infrastructure, CI/CD pipelines, observability, and production-grade deployments."
+      },
+      {
+        "topic": "System Design & Software Architecture",
         "status": "Ongoing",
-        "progress": "90%",
-        "details": "Practicing complex LLD patterns (Design Patterns, Clean Architecture, SOLID)."
+        "progress": "Continuous",
+        "details": "Strengthening knowledge of high-level design, low-level design, design patterns, Clean Architecture, SOLID principles, and scalable software engineering practices."
       }
     ]
   },
@@ -516,8 +522,8 @@
     }
   ],
   "quote": {
-    "quote": "Make it work, make it right, make it fast.",
-    "author": "Kent Beck"
+    "quote": "Simplicity is prerequisite for reliability.",
+    "author": "Edsger W. Dijkstra"
   },
   "coding": {
     "totalHours": "38 hrs 45 mins (This Week)",
@@ -545,6 +551,6 @@
       }
     ]
   },
-  "lastUpdated": "Wed, 05 Aug 2026 17:22:25 GMT",
+  "lastUpdated": "Wed, 05 Aug 2026 17:32:24 GMT",
   "generatedYear": 2026
 }
