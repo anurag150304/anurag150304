@@ -1,62 +1,35 @@
 {
-  "categories": [
-    {
-      "name": "Languages",
-      "icon": "⚡",
-      "skills": [
-        { "name": "TypeScript", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" },
-        { "name": "JavaScript", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" },
-        { "name": "Core Java", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" }
-      ]
-    },
-    {
-      "name": "Frontend",
-      "icon": "🎨",
-      "skills": [
-        { "name": "Next.js", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" },
-        { "name": "React.js", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" },
-        { "name": "Redux / Zustand", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" },
-        { "name": "Tailwind CSS", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" },
-        { "name": "ShadCN UI", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" }
-      ]
-    },
-    {
-      "name": "Backend",
-      "icon": "⚙️",
-      "skills": [
-        { "name": "Node.js", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" },
-        { "name": "Express.js", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" },
-        { "name": "WebSockets (ws / socket.io)", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" },
-        { "name": "Redis (Pub/Sub & Scale)", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" }
-      ]
-    },
-    {
-      "name": "Database",
-      "icon": "🗄️",
-      "skills": [
-        { "name": "PostgreSQL", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" },
-        { "name": "MongoDB Atlas", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" },
-        { "name": "Prisma (ORM)", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" }
-      ]
-    },
-    {
-      "name": "Cloud & DevOps",
-      "icon": "☁️",
-      "skills": [
-        { "name": "AWS", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" },
-        { "name": "Docker", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" },
-        { "name": "Git & GitHub", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" },
-        { "name": "Linux (Ubuntu)", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" }
-      ]
-    },
-    {
-      "name": "Architecture & Practices",
-      "icon": "📐",
-      "skills": [
-        { "name": "Data Structures & Algorithms", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" },
-        { "name": "CI/CD Integration", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" },
-        { "name": "Agile & Conflict Resolution", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" }
-      ]
-    }
+  "sectionTitle": "Things I code with",
+  "badges": [
+    { "name": "React", "badgeUrl": "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" },
+    { "name": "Next.js", "badgeUrl": "https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" },
+    { "name": "TypeScript", "badgeUrl": "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" },
+    { "name": "JavaScript", "badgeUrl": "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" },
+    { "name": "Node.js", "badgeUrl": "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" },
+    { "name": "Express.js", "badgeUrl": "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" },
+    { "name": "Core Java", "badgeUrl": "https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" },
+    { "name": "PostgreSQL", "badgeUrl": "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" },
+    { "name": "MongoDB", "badgeUrl": "https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" },
+    { "name": "Prisma ORM", "badgeUrl": "https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" },
+    { "name": "Redis", "badgeUrl": "https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" },
+    { "name": "WebSockets", "badgeUrl": "https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" },
+    { "name": "Redux", "badgeUrl": "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" },
+    { "name": "Tailwind CSS", "badgeUrl": "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" },
+    { "name": "ShadCN UI", "badgeUrl": "https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=react&logoColor=white" },
+    { "name": "Docker", "badgeUrl": "https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" },
+    { "name": "AWS", "badgeUrl": "https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" },
+    { "name": "GitHub Actions", "badgeUrl": "https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" },
+    { "name": "Git", "badgeUrl": "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" },
+    { "name": "Linux Ubuntu", "badgeUrl": "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" },
+    { "name": "HTML5", "badgeUrl": "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" },
+    { "name": "CSS3", "badgeUrl": "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" },
+    { "name": "GraphQL", "badgeUrl": "https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" },
+    { "name": "REST APIs", "badgeUrl": "https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" },
+    { "name": "Postman", "badgeUrl": "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" },
+    { "name": "Insomnia", "badgeUrl": "https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" },
+    { "name": "Jest", "badgeUrl": "https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" },
+    { "name": "Prettier", "badgeUrl": "https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" },
+    { "name": "ESLint", "badgeUrl": "https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" },
+    { "name": "Google Apps Script", "badgeUrl": "https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white" }
   ]
 }

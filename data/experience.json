@@ -2,7 +2,7 @@
   {
     "company": "Candid Optronix Pvt Ltd",
     "role": "Full-Stack Developer",
-    "period": "AUG 2025 - FEB 2026",
+    "period": "JAN 2025 - FEB 2026",
     "location": "India",
     "type": "Full-time",
     "summary": "Engineered enterprise-grade platforms and high-throughput real-time inventory systems.",
@@ -13,10 +13,26 @@
       "Solved high-impact system challenges including concurrency control, optimistic versioning, inventory hierarchies, and cutting stock reconciliation errors by 90% and improving stock computation performance."
     ],
     "metrics": [
-      { "label": "Active Internal Users", "value": "100+" },
-      { "label": "Reporting Effort Saved", "value": "60%" },
-      { "label": "Stock Reconciliation Error Reduction", "value": "90%" }
+      {
+        "label": "Active Internal Users",
+        "value": "100+"
+      },
+      {
+        "label": "Reporting Effort Saved",
+        "value": "60%"
+      },
+      {
+        "label": "Stock Reconciliation Error Reduction",
+        "value": "90%"
+      }
     ],
-    "techStack": ["TypeScript", "React.js", "WebSockets", "PostgreSQL", "Google Apps Script", "Node.js"]
+    "techStack": [
+      "TypeScript",
+      "React.js",
+      "WebSockets",
+      "PostgreSQL",
+      "Google Apps Script",
+      "Node.js"
+    ]
   }
 ]

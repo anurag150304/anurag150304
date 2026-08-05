@@ -71,13 +71,11 @@ async function main() {
     'header',
     'about',
     'skills',
-    'projects',
-    'stats',
     'blog',
-    'activity',
     'contact',
     'footer'
   ];
+
 
   const partials = {};
   partialNames.forEach(name => {

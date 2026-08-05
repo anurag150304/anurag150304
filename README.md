@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Anurag 👋
-### Full-Stack Developer | Specializing in MERN, Next.js, TypeScript & Scalable Real-Time Systems
+### Full-Stack Engineer | Specializing in Next.js/MERN, TypeScript & Scalable Real-Time Systems
 
 [![Readme Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&height=50&lines=Full-Stack+Developer+(MERN+%2B+Next.js);TypeScript+%2B+Scalable+Architectures;Real-Time+WebSockets+%2B+Redis;Building+Production-Ready+Enterprise+Systems)](https://git.io/typing-svg)
 
@@ -10,10 +10,10 @@ p r o f i l e &nbsp; v i s i t o r s
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag150304)
-[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=react&logoColor=61DAFB)](https://anurag150304.github.io)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anurag150304)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anurag.dev@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-mishra-283428164)
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=react&logoColor=61DAFB)](https://anurag-mishra.vercel.app)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AnuragM43312807)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anurag246805@example.com)
 
 </div>
 
@@ -21,7 +21,7 @@ p r o f i l e &nbsp; v i s i t o r s
 
 ## 👨‍💻 About Me
 
-Full-Stack Developer with 1+ year of professional experience, specializing in MERN and Next.js ecosystems, TypeScript, and scalable system architecture. Proficient in building real-time, high-performance applications using WebSockets and microservices. Passionate about delivering production-ready solutions by effectively bridging development and deployment.
+Full-Stack Engineer with 1 year of professional experience, specializing in Next.js/MERN, TypeScript, and scalable system architecture. Proficient in building real-time, high-performance applications using WebSockets and microservices. Passionate about delivering production-ready solutions by effectively bridging development and deployment.
 
 ### 💡 Quick Highlights & Core Competencies
 - ⚡ Built enterprise HRMS, Sales CRM & Marketing CRM platforms for 100+ active users
@@ -36,30 +36,6 @@ Full-Stack Developer with 1+ year of professional experience, specializing in ME
 
 ---
 
-## 💼 Professional Experience
-
-### 🏢 Candid Optronix Pvt Ltd — *Full-Stack Developer*
-`📅 AUG 2025 - FEB 2026` | `📍 India` | `🏷️ Full-time`
-
-Engineered enterprise-grade platforms and high-throughput real-time inventory systems.
-
-#### Key Accomplishments & Impact:
-- 🚀 Built and owned 3 internal enterprise platforms (HRMS, Marketing CRM, Sales CRM) using TypeScript, React.js, Google Apps Script, and PostgreSQL, supporting 100+ active internal users across multiple teams.
-- 🚀 Designed end-to-end, real-time data workflows that automated cross-department operations, reducing manual reporting effort by 60% and improving data consistency across systems.
-- 🚀 Architected and built a production-grade Inventory Stock Management system using TypeScript, React.js, WebSockets, Google Apps Script, and PostgreSQL, enabling real-time inventory tracking, multi-branch transfers, quantity reconciliation, and full transaction traceability.
-- 🚀 Solved high-impact system challenges including concurrency control, optimistic versioning, inventory hierarchies, and cutting stock reconciliation errors by 90% and improving stock computation performance.
-
-#### Impact Metrics:
-| Metric | Value |
-| :--- | :--- |
-| **Active Internal Users** | `100+` |
-| **Reporting Effort Saved** | `60%` |
-| **Stock Reconciliation Error Reduction** | `90%` |
-
-**Tech Stack**: `TypeScript` `React.js` `WebSockets` `PostgreSQL` `Google Apps Script` `Node.js` 
-
----
-
 ## 🛣️ Learning Roadmap (2026)
 
 | Topic / Focus Area | Progress | Status | Details |
@@ -71,135 +47,40 @@ Engineered enterprise-grade platforms and high-throughput real-time inventory sy
 
 ---
 
-## 🛠️ Technical Stack & Skills
+## 🛠️ Things I code with
 
-### ⚡ Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Core Java" title="Core Java" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Core Java" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=react&logoColor=white" alt="ShadCN UI" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux Ubuntu" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white" alt="Google Apps Script" style="margin-right: 4px; margin-bottom: 6px;" />
 </p>
-### 🎨 Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" title="React.js" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux / Zustand" title="Redux / Zustand" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ShadCN UI" title="ShadCN UI" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
-</p>
-### ⚙️ Backend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" title="Express.js" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="WebSockets (ws / socket.io)" title="WebSockets (ws / socket.io)" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis (Pub/Sub & Scale)" title="Redis (Pub/Sub & Scale)" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
-</p>
-### 🗄️ Database
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB Atlas" title="MongoDB Atlas" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma (ORM)" title="Prisma (ORM)" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
-</p>
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git & GitHub" title="Git & GitHub" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Linux (Ubuntu)" title="Linux (Ubuntu)" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
-</p>
-### 📐 Architecture & Practices
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="Data Structures & Algorithms" title="Data Structures & Algorithms" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="CI/CD Integration" title="CI/CD Integration" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Agile & Conflict Resolution" title="Agile & Conflict Resolution" width="45" height="45" style="margin-right: 12px; margin-bottom: 12px;" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### ⚡ Real-Time Microservices Pub/Sub Hub 📌 *[Pinned]*
-`Status: Open Source` | `⭐ Stars: 24`
-
-Distributed real-time message broker interface built with Node.js WebSockets and Redis Pub/Sub, engineered to scale server instances horizontally under high load.
-
-> 🌟 **Key Innovation**: Demonstrates pub/sub scaling, connection pooling, and optimistic state synchronization.
-
-**Tech Stack**: `TypeScript` `Node.js` `Redis` `Docker` `WebSockets` 
-
-[🔗 Source Code](https://github.com/anurag150304/realtime-pubsub-hub) | [🌐 Live Demo](https://pubsub-hub.vercel.app)
-
----
-### 💼 Enterprise Marketing & Sales CRM 📌 *[Pinned]*
-`Status: Active` | `⭐ Stars: 15`
-
-Automated sales pipeline tracking & customer relationship manager featuring real-time data sync, cross-department reporting workflows, and analytics dashboard.
-
-> 🌟 **Key Innovation**: Automated cross-department operations, reducing manual reporting effort by 60%.
-
-**Tech Stack**: `TypeScript` `Next.js` `Node.js` `PostgreSQL` `Redux` 
-
-[🔗 Source Code](https://github.com/anurag150304/enterprise-crm-suite) | [🌐 Live Demo](https://crm-suite-demo.vercel.app)
-
----
-### 📦 Inventory Stock Management System 📌 *[Pinned]*
-`Status: Production Ready` | `⭐ Stars: 12`
-
-Production-grade multi-branch inventory tracking system with WebSockets real-time updates, quantity reconciliation, multi-branch transfers, optimistic concurrency versioning, and transaction audit trails.
-
-> 🌟 **Key Innovation**: Reduced cutting stock reconciliation errors by 90% and optimized real-time stock computation performance.
-
-**Tech Stack**: `TypeScript` `React.js` `WebSockets` `PostgreSQL` `Google Apps Script` 
-
-[🔗 Source Code](https://github.com/anurag150304/inventory-stock-system) | [🌐 Live Demo](https://inventory-system-demo.vercel.app)
-
----
-### 👥 Enterprise HRMS Platform 📌 *[Pinned]*
-`Status: Active` | `⭐ Stars: 8`
-
-Full-stack internal HR management system for employee onboarding, leave management, payroll reporting, and performance tracking across enterprise teams.
-
-> 🌟 **Key Innovation**: Serving 100+ active internal users across multiple teams.
-
-**Tech Stack**: `TypeScript` `React.js` `PostgreSQL` `Express.js` `Prisma` 
-
-[🔗 Source Code](https://github.com/anurag150304/enterprise-hrms) | [🌐 Live Demo](https://hrms-demo.vercel.app)
-
----
-
-## 📊 GitHub Analytics & Achievements
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anurag150304&theme=onedark&column=6&margin-w=15&margin-h=15)
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anurag150304&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Anurag's GitHub Stats" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag150304&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="175"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anurag150304&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</p>
-
-### 🐍 Contribution Graph Animation
-![](https://raw.githubusercontent.com/anurag150304/anurag150304/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 📰 Latest Articles & Writing
-
-- 📝 [**Building Real-Time Inventory Tracking Systems with WebSockets & PostgreSQL**](https://github.com/anurag150304) — *Feb 2026*
-  > How optimistic versioning and WebSockets solved concurrency control and reduced stock reconciliation errors by 90%.
-- 📝 [**Scaling Next.js & Node.js Applications with Redis Pub/Sub**](https://github.com/anurag150304) — *Jan 2026*
-  > A practical guide to scaling WebSocket servers horizontally across microservice containers.
-- 📝 [**Clean Architecture in TypeScript & Prisma ORM**](https://github.com/anurag150304) — *Dec 2025*
-  > Structuring full-stack enterprise applications for maintainability and 60% faster reporting workflows.
 
 ---
 
@@ -219,42 +100,21 @@ Daily Average:           5 hrs 30 mins / day
 
 ---
 
-## ⚡ Recent GitHub Activity & Endeavors
-
-- 🔨 Pushed to [anurag150304/anurag150304](https://github.com/anurag150304/anurag150304): *"Updated codebase"*
-- 🔨 Pushed to [anurag150304/anurag150304](https://github.com/anurag150304/anurag150304): *"Updated codebase"*
-- 🚀 Created branch in [anurag150304/Pincode-Tracker](https://github.com/anurag150304/Pincode-Tracker)
-- 🔨 Pushed to [anurag150304/Open-Router](https://github.com/anurag150304/Open-Router): *"Updated codebase"*
-- 🔨 Pushed to [anurag150304/Open-Router](https://github.com/anurag150304/Open-Router): *"Updated codebase"*
-
-<br/>
-
-### 💬 Quote of the Day
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
-> — **Martin Fowler**
-
-<br/>
-
-### 📖 Currently Reading
-> 📘 **Designing Data-Intensive Applications by Martin Kleppmann**
-
----
-
 ## 📫 Get In Touch & Connect
 
 I am always open to discussing full-stack opportunities, scalable system design, open-source projects, or tech collaborations.
 
 <p align="center">
-  <a href="mailto:anurag.dev@example.com">
+  <a href="mailto:anurag246805@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/anurag150304" target="_blank">
+  <a href="https://linkedin.com/in/anurag-mishra-283428164" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://anurag150304.github.io" target="_blank">
+  <a href="https://anurag-mishra.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
   </a>
-  <a href="https://twitter.com/anurag150304" target="_blank">
+  <a href="https://x.com/AnuragM43312807" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://github.com/anurag150304" target="_blank">
@@ -268,7 +128,7 @@ I am always open to discussing full-stack opportunities, scalable system design,
 
 *⚡ Automatically generated with ❤️ using [Node.js](https://nodejs.org), [Mustache](https://mustache.github.io/), and [GitHub Actions](https://github.com/features/actions).*
 
-`Last updated: Wed, 05 Aug 2026 10:06:23 GMT`
+`Last updated: Wed, 05 Aug 2026 11:53:42 GMT`
 
 © 2026 Anurag (anurag150304). All rights reserved.
 
