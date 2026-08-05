@@ -51,52 +51,37 @@ Full-Stack Engineer with 1 year of professional experience, specializing in Next
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Core Java" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Core Java" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSockets" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=react&logoColor=white" alt="ShadCN UI" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux Ubuntu" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white" alt="Google Apps Script" style="margin-right: 4px; margin-bottom: 6px;" />
 </p>
-
----
-
-## ⏱️ Weekly Coding Activity
-
-```text
-Total Time Spent Coding: 38 hrs 45 mins (This Week)
-Daily Average:           5 hrs 30 mins / day
-```
-
-| Language / Tech | Share | Time Tracked |
-| :--- | :---: | :--- |
-| **TypeScript** | `45%` | 17 hrs 25 mins |
-| **JavaScript / React** | `30%` | 11 hrs 35 mins |
-| **PostgreSQL / SQL** | `15%` | 5 hrs 45 mins |
-| **Docker / DevOps** | `10%` | 3 hrs 50 mins |
 
 ---
 
@@ -128,7 +113,7 @@ I am always open to discussing full-stack opportunities, scalable system design,
 
 *⚡ Automatically generated with ❤️ using [Node.js](https://nodejs.org), [Mustache](https://mustache.github.io/), and [GitHub Actions](https://github.com/features/actions).*
 
-`Last updated: Wed, 05 Aug 2026 15:19:42 GMT`
+`Last updated: Wed, 05 Aug 2026 15:23:21 GMT`
 
 © 2026 Anurag (anurag150304). All rights reserved.
 

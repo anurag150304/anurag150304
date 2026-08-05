@@ -71,7 +71,6 @@ async function main() {
     'header',
     'about',
     'skills',
-    'blog',
     'contact',
     'footer'
   ];

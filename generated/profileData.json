@@ -99,18 +99,18 @@
   },
   "skills": {
     "sectionTitle": "Things I code with",
-    "badges": [
+    "skills": [
       {
         "name": "React",
         "badgeUrl": "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
       },
       {
         "name": "Next.js",
-        "badgeUrl": "https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"
+        "badgeUrl": "https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
       },
       {
         "name": "TypeScript",
-        "badgeUrl": "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+        "badgeUrl": "https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"
       },
       {
         "name": "JavaScript",
@@ -118,15 +118,15 @@
       },
       {
         "name": "Node.js",
-        "badgeUrl": "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
+        "badgeUrl": "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
       },
       {
         "name": "Express.js",
-        "badgeUrl": "https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"
+        "badgeUrl": "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
       },
       {
         "name": "Core Java",
-        "badgeUrl": "https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+        "badgeUrl": "https://img.shields.io/badge/Core_Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
       },
       {
         "name": "PostgreSQL",
@@ -134,10 +134,10 @@
       },
       {
         "name": "MongoDB",
-        "badgeUrl": "https://img.shields.io/badge/MongoDB_Atlas-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+        "badgeUrl": "https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
       },
       {
-        "name": "Prisma ORM",
+        "name": "Prisma",
         "badgeUrl": "https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"
       },
       {
@@ -146,19 +146,11 @@
       },
       {
         "name": "WebSockets",
-        "badgeUrl": "https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white"
+        "badgeUrl": "https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"
       },
       {
-        "name": "Redux",
-        "badgeUrl": "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
-      },
-      {
-        "name": "Tailwind CSS",
-        "badgeUrl": "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
-      },
-      {
-        "name": "ShadCN UI",
-        "badgeUrl": "https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=react&logoColor=white"
+        "name": "Socket.io",
+        "badgeUrl": "https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"
       },
       {
         "name": "Docker",
@@ -166,19 +158,23 @@
       },
       {
         "name": "AWS",
-        "badgeUrl": "https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
+        "badgeUrl": "https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"
       },
       {
-        "name": "GitHub Actions",
-        "badgeUrl": "https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"
+        "name": "Redux",
+        "badgeUrl": "https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
       },
       {
-        "name": "Git",
-        "badgeUrl": "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+        "name": "Zustand",
+        "badgeUrl": "https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white"
       },
       {
-        "name": "Linux Ubuntu",
-        "badgeUrl": "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+        "name": "Tailwind CSS",
+        "badgeUrl": "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
+      },
+      {
+        "name": "Shadcn UI",
+        "badgeUrl": "https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white"
       },
       {
         "name": "HTML5",
@@ -189,36 +185,44 @@
         "badgeUrl": "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
       },
       {
-        "name": "GraphQL",
-        "badgeUrl": "https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"
+        "name": "Git",
+        "badgeUrl": "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
       },
       {
-        "name": "REST APIs",
-        "badgeUrl": "https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"
+        "name": "GitHub",
+        "badgeUrl": "https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      },
+      {
+        "name": "GitHub Actions",
+        "badgeUrl": "https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"
+      },
+      {
+        "name": "Linux",
+        "badgeUrl": "https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+      },
+      {
+        "name": "Google Apps Script",
+        "badgeUrl": "https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white"
       },
       {
         "name": "Postman",
         "badgeUrl": "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
       },
       {
-        "name": "Insomnia",
-        "badgeUrl": "https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white"
+        "name": "NPM",
+        "badgeUrl": "https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"
       },
       {
-        "name": "Jest",
-        "badgeUrl": "https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
+        "name": "Vite",
+        "badgeUrl": "https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"
+      },
+      {
+        "name": "Webpack",
+        "badgeUrl": "https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"
       },
       {
         "name": "Prettier",
         "badgeUrl": "https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"
-      },
-      {
-        "name": "ESLint",
-        "badgeUrl": "https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"
-      },
-      {
-        "name": "Google Apps Script",
-        "badgeUrl": "https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white"
       }
     ]
   },
@@ -389,8 +393,8 @@
     }
   ],
   "quote": {
-    "quote": "Make it work, make it right, make it fast.",
-    "author": "Kent Beck"
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler"
   },
   "coding": {
     "totalHours": "38 hrs 45 mins (This Week)",
@@ -418,6 +422,6 @@
       }
     ]
   },
-  "lastUpdated": "Wed, 05 Aug 2026 15:19:42 GMT",
+  "lastUpdated": "Wed, 05 Aug 2026 15:23:21 GMT",
   "generatedYear": 2026
 }
