@@ -10,10 +10,10 @@ p r o f i l e &nbsp; v i s i t o r s
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag150304)
-[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=react&logoColor=61DAFB)](https://anurag150304.github.io)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anurag150304)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anurag.dev@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anurag-mishra-283428164)
+[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=react&logoColor=61DAFB)](https://anurag-mishra.vercel.app)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AnuragM43312807)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anurag246805@example.com)
 
 </div>
 
@@ -221,10 +221,10 @@ Daily Average:           5 hrs 30 mins / day
 
 ## ⚡ Recent GitHub Activity & Endeavors
 
+- 🚀 Created branch in [anurag150304/anurag150304](https://github.com/anurag150304/anurag150304)
 - 🔨 Pushed to [anurag150304/anurag150304](https://github.com/anurag150304/anurag150304): *"Updated codebase"*
 - 🔨 Pushed to [anurag150304/anurag150304](https://github.com/anurag150304/anurag150304): *"Updated codebase"*
 - 🚀 Created branch in [anurag150304/Pincode-Tracker](https://github.com/anurag150304/Pincode-Tracker)
-- 🔨 Pushed to [anurag150304/Open-Router](https://github.com/anurag150304/Open-Router): *"Updated codebase"*
 - 🔨 Pushed to [anurag150304/Open-Router](https://github.com/anurag150304/Open-Router): *"Updated codebase"*
 
 <br/>
@@ -245,16 +245,16 @@ Daily Average:           5 hrs 30 mins / day
 I am always open to discussing full-stack opportunities, scalable system design, open-source projects, or tech collaborations.
 
 <p align="center">
-  <a href="mailto:anurag.dev@example.com">
+  <a href="mailto:anurag246805@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/anurag150304" target="_blank">
+  <a href="https://linkedin.com/in/anurag-mishra-283428164" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://anurag150304.github.io" target="_blank">
+  <a href="https://anurag-mishra.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
   </a>
-  <a href="https://twitter.com/anurag150304" target="_blank">
+  <a href="https://x.com/AnuragM43312807" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://github.com/anurag150304" target="_blank">
@@ -268,7 +268,7 @@ I am always open to discussing full-stack opportunities, scalable system design,
 
 *⚡ Automatically generated with ❤️ using [Node.js](https://nodejs.org), [Mustache](https://mustache.github.io/), and [GitHub Actions](https://github.com/features/actions).*
 
-`Last updated: Wed, 05 Aug 2026 10:06:23 GMT`
+`Last updated: Wed, 05 Aug 2026 10:27:41 GMT`
 
 © 2026 Anurag (anurag150304). All rights reserved.
 
