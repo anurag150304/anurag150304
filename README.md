@@ -1,16 +1,84 @@
-## Hi there 👋
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<!--
-**anurag150304/anurag150304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+         [ Animated Banner ]
 
-Here are some ideas to get you started:
+       👋 Hi, I'm Anurag Mishra
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+      Full Stack Developer
+             ×
+      AI Engineering Enthusiast
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧠 About Me
+
+💼 1+ Year Professional Experience
+
+⚡ Building scalable backend systems
+
+🚀 Passionate about AI Engineering
+
+🌱 Currently Learning
+
+Machine Learning
+Deep Learning
+Generative AI
+Agentic AI
+System Design
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠 Tech Stack
+
+Frontend
+Backend
+Database
+Cloud
+DevOps
+AI
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📌 Featured Projects
+
+DevCircle
+
+Ride Connect
+
+Inventory Management
+
+Code Reviewer AI
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 GitHub Analytics
+
+Stats
+
+Languages
+
+Streak
+
+Activity Graph
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 Achievements
+
+GitHub Trophy
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+☕ Random Dev Quote
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📫 Connect With Me
+
+LinkedIn
+
+Email
+
+Portfolio
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
