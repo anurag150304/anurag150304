@@ -323,7 +323,7 @@
     "username": "anurag150304",
     "name": "ANURAG",
     "avatarUrl": "https://avatars.githubusercontent.com/u/112794726?v=4",
-    "followers": 1,
+    "followers": 2,
     "following": 1,
     "publicRepos": 23,
     "totalStars": 0,
@@ -393,13 +393,8 @@
     }
   ],
   "quote": {
-<<<<<<< HEAD
     "quote": "First, solve the problem. Then, write the code.",
     "author": "John Johnson"
-=======
-    "quote": "Simplicity is prerequisite for reliability.",
-    "author": "Edsger W. Dijkstra"
->>>>>>> 79d1c817a5439c3b0a2b85be123a4119a51ea013
   },
   "coding": {
     "totalHours": "38 hrs 45 mins (This Week)",
@@ -427,10 +422,6 @@
       }
     ]
   },
-<<<<<<< HEAD
-  "lastUpdated": "Wed, 05 Aug 2026 15:26:17 GMT",
-=======
-  "lastUpdated": "Wed, 05 Aug 2026 15:23:49 GMT",
->>>>>>> 79d1c817a5439c3b0a2b85be123a4119a51ea013
+  "lastUpdated": "Wed, 05 Aug 2026 15:29:28 GMT",
   "generatedYear": 2026
 }
