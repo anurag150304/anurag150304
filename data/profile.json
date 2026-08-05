@@ -2,16 +2,16 @@
   "name": "Anurag",
   "username": "anurag150304",
   "role": "Full-Stack Engineer",
-  "tagline": "Specializing in Next.js/MERN, TypeScript & Scalable Real-Time Systems",
+  "tagline": "Building full-stack apps with Next.js or MERN with TS | Diving deep into AI/ML",
   "location": "India",
-  "status": "🚀 Open to exciting Full-Stack & Systems Engineering opportunities",
-  "bio": "Full-Stack Engineer with 1 year of professional experience, specializing in Next.js/MERN, TypeScript, and scalable system architecture. Proficient in building real-time, high-performance applications using WebSockets and microservices. Passionate about delivering production-ready solutions by effectively bridging development and deployment.",
-  "currentFocus": "Deepening microservices architectural patterns, distributed caching with Redis, and container orchestration with Docker & AWS.",
+  "status": "🚀 Open to exciting Full-Stack & AI/ML opportunities",
+  "bio": "Full-Stack Engineer specializing in Next.js, MERN with TypeScript, passionate about building scalable, real-time applications and robust backend systems",
+  "currentFocus": "Currently focused on building intelligent AI-powered applications while strengthening my foundations in Machine Learning and Deep Learning.",
   "quickFacts": [
-    "⚡ Built enterprise HRMS, Sales CRM & Marketing CRM platforms for 100+ active users",
-    "📦 Architected real-time Inventory Stock System cutting reconciliation errors by 90%",
-    "📊 Reduced cross-department manual reporting effort by 60%",
-    "🔥 Expert in WebSockets, Optimistic Concurrency Control & PostgreSQL/Prisma",
-    "🚀 Passionate about clean code, SOLID principles, and DSA"
+    "🏗️ Built enterprise HRMS, Sales CRM, and Marketing CRM platforms supporting 50+ active users",
+    "⚡ Architected a real-time Inventory Management System, reducing reconciliation errors by 50%",
+    "📊 Automated cross-department workflows, cutting manual reporting effort by 60%",
+    "🔄 Experienced in real-time systems, WebSockets, optimistic concurrency control, and PostgreSQL/Prisma",
+    "🚀 Passionate about clean architecture, SOLID principles, and continuous learning"
   ]
 }

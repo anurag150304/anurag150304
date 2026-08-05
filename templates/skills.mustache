@@ -1,9 +1,19 @@
-## 🛠️ Things I code with
+## 🛠️ {{skills.sectionTitle}}
 
+{{#skills.categories}}
+### {{title}}
 <p align="left">
-{{#skills.skills}}
-  <img src="{{badgeUrl}}" alt="{{name}}" style="margin-right: 4px; margin-bottom: 6px;" />
-{{/skills.skills}}
+{{#skills}}
+  {{#icon}}
+  <img src="https://skillicons.dev/icons?i={{icon}}" title="{{name}}" alt="{{name}}" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  {{/icon}}
+  {{^icon}}
+    {{#badge}}
+  <img src="{{badge}}" title="{{name}}" alt="{{name}}" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+    {{/badge}}
+  {{/icon}}
+{{/skills}}
 </p>
 
+{{/skills.categories}}
 ---
