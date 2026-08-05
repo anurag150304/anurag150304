@@ -25,13 +25,13 @@ const OUTPUT_README_PATH = path.join(ROOT_DIR, 'README.md');
 const PRIMARY_MUSTACHE_PATH = path.join(ROOT_DIR, 'README.mustache');
 
 async function main() {
-  console.log('Starting GitHub Profile README Generation Pipeline...');
+  console.log('🚀 Starting GitHub Profile README Generation Pipeline...');
 
   // 1. Merge static JSON datasets
   const mergedStaticData = mergeData();
   const username = mergedStaticData.profile?.username || 'anurag150304';
 
-  console.log(`Fetching live metadata for user @${username}...`);
+  console.log(`📡 Fetching live metadata for user @${username}...`);
 
   // 2. Fetch dynamic metadata in parallel
   const [githubStats, activityEvents, blogPosts, codingStats] = await Promise.all([
@@ -64,27 +64,20 @@ async function main() {
   ensureDirExists(GENERATED_DIR);
   const profileDataPath = path.join(GENERATED_DIR, 'profileData.json');
   fs.writeFileSync(profileDataPath, JSON.stringify(fullProfileData, null, 2), 'utf-8');
-  console.log(`Saved consolidated runtime data to ${profileDataPath}`);
+  console.log(`✅ Saved consolidated runtime data to ${profileDataPath}`);
 
-  // 6. Load Mustache template partials
-  const partialNames = [
-    'header',
-    'about',
-    'skills',
-    'contact',
-    'footer'
-  ];
-
-
+  // 6. Load Mustache template partials dynamically from templates/ directory
   const partials = {};
-  partialNames.forEach(name => {
-    const partialPath = path.join(TEMPLATES_DIR, `${name}.mustache`);
-    if (fs.existsSync(partialPath)) {
-      partials[name] = fs.readFileSync(partialPath, 'utf-8');
-    } else {
-      console.warn(`[generate] Warning: Partial template not found: ${partialPath}`);
-    }
-  });
+  if (fs.existsSync(TEMPLATES_DIR)) {
+    const templateFiles = fs.readdirSync(TEMPLATES_DIR);
+    templateFiles.forEach(file => {
+      if (file.endsWith('.mustache') && file !== 'main.mustache') {
+        const name = path.basename(file, '.mustache');
+        partials[name] = fs.readFileSync(path.join(TEMPLATES_DIR, file), 'utf-8');
+      }
+    });
+  }
+
 
   // 7. Load main template (templates/main.mustache or README.mustache)
   let mainTemplate = '';
@@ -102,15 +95,15 @@ async function main() {
   fs.writeFileSync(PRIMARY_MUSTACHE_PATH, mainTemplate, 'utf-8');
 
   // 8. Render template using Mustache
-  console.log('Rendering README markdown from Mustache template...');
+  console.log('🎨 Rendering README markdown from Mustache template...');
   const outputMarkdown = Mustache.render(mainTemplate, fullProfileData, partials);
 
   // 9. Write to root README.md
   fs.writeFileSync(OUTPUT_README_PATH, outputMarkdown, 'utf-8');
-  console.log(`README.md successfully generated at ${OUTPUT_README_PATH}!`);
+  console.log(`🎉 README.md successfully generated at ${OUTPUT_README_PATH}!`);
 }
 
 main().catch(err => {
-  console.error('Fatal error generating README.md:', err);
+  console.error('❌ Fatal error generating README.md:', err);
   process.exit(1);
 });
