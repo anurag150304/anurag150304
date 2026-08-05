@@ -29,3 +29,6 @@ Thumbs.db
 .cache/
 dist/
 build/
+
+# generated
+generated/
