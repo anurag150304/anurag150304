@@ -277,16 +277,16 @@
             "icon": "sklearn"
           },
           {
-            "name": "Jupyter",
-            "badge": "https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"
-          },
-          {
             "name": "TensorFlow",
             "icon": "tensorflow"
           },
           {
             "name": "PyTorch",
             "icon": "pytorch"
+          },
+          {
+            "name": "Jupyter",
+            "badge": "https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"
           },
           {
             "name": "NumPy",
@@ -545,10 +545,6 @@
       }
     ]
   },
-<<<<<<< HEAD
-  "lastUpdated": "Wed, 05 Aug 2026 17:14:53 GMT",
-=======
-  "lastUpdated": "Wed, 05 Aug 2026 17:12:56 GMT",
->>>>>>> ad2206fa7763a8350e738e3a7889016f91263654
+  "lastUpdated": "Wed, 05 Aug 2026 17:22:25 GMT",
   "generatedYear": 2026
 }

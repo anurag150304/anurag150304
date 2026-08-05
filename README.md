@@ -105,9 +105,9 @@ Full-Stack Engineer specializing in Next.js, MERN with TypeScript, passionate ab
 ### 🤖 AI & Machine Learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=sklearn" title="scikit-learn" alt="scikit-learn" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" title="Jupyter" alt="Jupyter" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" alt="TensorFlow" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="PyTorch" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" title="Jupyter" alt="Jupyter" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" alt="NumPy" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" alt="Pandas" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" title="Matplotlib" alt="Matplotlib" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
@@ -157,15 +157,11 @@ I am always open to discussing full-stack opportunities, scalable system design,
 
 *⚡ Automatically generated with ❤️ using [Node.js](https://nodejs.org), [Mustache](https://mustache.github.io/), and [GitHub Actions](https://github.com/features/actions).*
 
-<<<<<<< HEAD
 <br/>
 
-`Last updated: Wed, 05 Aug 2026 17:14:53 GMT`
+`Last updated: Wed, 05 Aug 2026 17:22:25 GMT`
 
 <br/>
-=======
-`Last updated: Wed, 05 Aug 2026 17:12:56 GMT`
->>>>>>> ad2206fa7763a8350e738e3a7889016f91263654
 
 © 2026 Anurag (anurag150304). All rights reserved.
 
