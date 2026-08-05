@@ -3,7 +3,7 @@
 # Hi there, I'm Anurag 👋
 ### Full-Stack Engineer | Building full-stack apps with Next.js or MERN with TS | Diving deep into AI/ML
 
-[![Readme Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&height=50&lines=Full-Stack+Developer+(MERN+%2B+Next.js);TypeScript+%2B+Scalable+Architectures;Real-Time+WebSockets+%2B+Redis;Building+Production-Ready+Enterprise+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&height=50&lines=Full-Stack+Developer+(Next.js+%7C+MERN+%7C+TypeScript);Building+Scalable+Backend+%26+Real-Time+Systems;Exploring+Machine+Learning+%26+Deep+Learning;Building+AI-Powered+Applications;Open+Source+Learner+%E2%80%A2+Always+Building)](https://git.io/typing-svg)
 
 <br/>
 
@@ -37,10 +37,11 @@ Full-Stack Engineer specializing in Next.js, MERN with TypeScript, passionate ab
 
 | Topic / Focus Area | Progress | Status | Details |
 | :--- | :---: | :---: | :--- |
-| **Distributed Systems & Event-Driven Architecture** | `85%` | `In Progress` | Deepening Kafka event streaming, Redis cluster scaling, and distributed locks. |
-| **Kubernetes & Cloud Infrastructure Automation** | `70%` | `In Progress` | Deploying microservices with K8s, Helm charts, and terraform on AWS. |
-| **Advanced Database Optimization & Sharding** | `60%` | `Next Up` | Mastering PostgreSQL indexing strategies, connection pooling with PgBouncer, and horizontal sharding. |
-| **System Design & Low-Level Design (LLD)** | `90%` | `Ongoing` | Practicing complex LLD patterns (Design Patterns, Clean Architecture, SOLID). |
+| **Machine Learning & Deep Learning** | `In Progress` | `Currently Learning` | Building strong foundations in Machine Learning, Deep Learning, optimization techniques, and practical model development with Python. |
+| **Generative AI, RAG & Agentic AI** | `In Progress` | `Actively Exploring` | Developing AI-powered applications using LLMs, Retrieval-Augmented Generation (RAG), context engineering, prompt engineering, and autonomous AI agents. |
+| **Distributed Systems & Scalable Backend Architecture** | `Ongoing` | `Continuously Improving` | Deepening expertise in event-driven systems, caching, asynchronous communication, real-time architectures, and designing scalable backend services. |
+| **Cloud Native, DevOps & Infrastructure** | `Planned` | `Next Focus` | Learning Kubernetes, container orchestration, cloud infrastructure, CI/CD pipelines, observability, and production-grade deployments. |
+| **System Design & Software Architecture** | `Continuous` | `Ongoing` | Strengthening knowledge of high-level design, low-level design, design patterns, Clean Architecture, SOLID principles, and scalable software engineering practices. |
 
 ---
 
@@ -68,8 +69,8 @@ Full-Stack Engineer specializing in Next.js, MERN with TypeScript, passionate ab
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express.js" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" title="Turborepo" alt="Turborepo" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=django" title="Django" alt="Django" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" title="Turborepo" alt="Turborepo" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/Elysia.js-2C2C32?style=for-the-badge&logo=bun&logoColor=white" title="Elysia.js" alt="Elysia.js" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" title="REST API" alt="REST API" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" title="JWT" alt="JWT" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
@@ -159,7 +160,7 @@ I am always open to discussing full-stack opportunities, scalable system design,
 
 <br/>
 
-`Last updated: Wed, 05 Aug 2026 17:22:25 GMT`
+`Last updated: Wed, 05 Aug 2026 17:32:29 GMT`
 
 <br/>
 
