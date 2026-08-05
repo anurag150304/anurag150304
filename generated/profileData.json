@@ -393,8 +393,8 @@
     }
   ],
   "quote": {
-    "quote": "First, solve the problem. Then, write the code.",
-    "author": "John Johnson"
+    "quote": "Simplicity is prerequisite for reliability.",
+    "author": "Edsger W. Dijkstra"
   },
   "coding": {
     "totalHours": "38 hrs 45 mins (This Week)",
@@ -422,6 +422,6 @@
       }
     ]
   },
-  "lastUpdated": "Wed, 05 Aug 2026 15:29:28 GMT",
+  "lastUpdated": "Wed, 05 Aug 2026 15:30:05 GMT",
   "generatedYear": 2026
 }
