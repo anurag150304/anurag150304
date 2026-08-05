@@ -142,11 +142,11 @@
           },
           {
             "name": "Zustand",
-            "badge": "https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white"
+            "badge": "https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=61DAFB"
           },
           {
-            "name": "Shadcn UI",
-            "badge": "https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white"
+            "name": "shadcn/ui",
+            "badge": "https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"
           }
         ]
       },
@@ -162,8 +162,8 @@
             "icon": "express"
           },
           {
-            "name": "TurboRepo",
-            "icon": "turborepo"
+            "name": "Turborepo",
+            "badge": "https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white"
           },
           {
             "name": "Django",
@@ -171,15 +171,15 @@
           },
           {
             "name": "Elysia.js",
-            "badge": "https://img.shields.io/badge/Elysia.js-010101?style=for-the-badge&logo=elysiajs&logoColor=white"
+            "badge": "https://img.shields.io/badge/Elysia.js-2C2C32?style=for-the-badge&logo=bun&logoColor=white"
           },
           {
-            "name": "REST APIs",
-            "badge": "https://img.shields.io/badge/REST_API-005571?style=for-the-badge"
+            "name": "REST API",
+            "badge": "https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"
           },
           {
             "name": "JWT",
-            "badge": "https://img.shields.io/badge/JWT-000000?style=for-the-badge"
+            "badge": "https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"
           },
           {
             "name": "WebSockets",
@@ -216,7 +216,7 @@
           },
           {
             "name": "Mongoose",
-            "badge": "https://img.shields.io/badge/Mongoose-010101?style=for-the-badge&logo=mongodb&logoColor=white"
+            "badge": "https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"
           }
         ]
       },
@@ -278,11 +278,15 @@
           },
           {
             "name": "Jupyter",
-            "icon": "jupyter"
+            "badge": "https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"
           },
           {
             "name": "TensorFlow",
             "icon": "tensorflow"
+          },
+          {
+            "name": "PyTorch",
+            "icon": "pytorch"
           },
           {
             "name": "NumPy",
@@ -302,7 +306,7 @@
           },
           {
             "name": "Claude",
-            "badge": "https://img.shields.io/badge/Claude-4285F4?style=for-the-badge&logo=claude&logoColor=white"
+            "badge": "https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"
           },
           {
             "name": "Google Gemini",
@@ -318,12 +322,20 @@
             "icon": "vscode"
           },
           {
+            "name": "IntelliJ IDEA",
+            "icon": "idea"
+          },
+          {
             "name": "Postman",
             "icon": "postman"
           },
           {
             "name": "Notion",
             "icon": "notion"
+          },
+          {
+            "name": "Stack Overflow",
+            "icon": "stackoverflow"
           },
           {
             "name": "Markdown",
@@ -533,6 +545,6 @@
       }
     ]
   },
-  "lastUpdated": "Wed, 05 Aug 2026 16:52:47 GMT",
+  "lastUpdated": "Wed, 05 Aug 2026 17:11:09 GMT",
   "generatedYear": 2026
 }

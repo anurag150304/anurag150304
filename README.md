@@ -60,19 +60,19 @@ Full-Stack Engineer specializing in Next.js, MERN with TypeScript, passionate ab
   <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind CSS" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" title="Zustand" alt="Zustand" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" title="Shadcn UI" alt="Shadcn UI" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=61DAFB" title="Zustand" alt="Zustand" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" title="shadcn/ui" alt="shadcn/ui" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
 </p>
 
 ### ⚙️ Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=express" title="Express.js" alt="Express.js" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://skillicons.dev/icons?i=turborepo" title="TurboRepo" alt="TurboRepo" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" title="Turborepo" alt="Turborepo" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=django" title="Django" alt="Django" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Elysia.js-010101?style=for-the-badge&logo=elysiajs&logoColor=white" title="Elysia.js" alt="Elysia.js" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" title="REST APIs" alt="REST APIs" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" title="JWT" alt="JWT" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Elysia.js-2C2C32?style=for-the-badge&logo=bun&logoColor=white" title="Elysia.js" alt="Elysia.js" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" title="REST API" alt="REST API" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" title="JWT" alt="JWT" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" title="WebSockets" alt="WebSockets" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" title="Socket.IO" alt="Socket.IO" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
 </p>
@@ -84,7 +84,7 @@ Full-Stack Engineer specializing in Next.js, MERN with TypeScript, passionate ab
   <img src="https://skillicons.dev/icons?i=mysql" title="MariaDB" alt="MariaDB" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=prisma" title="Prisma" alt="Prisma" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Mongoose-010101?style=for-the-badge&logo=mongodb&logoColor=white" title="Mongoose" alt="Mongoose" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" title="Mongoose" alt="Mongoose" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
 </p>
 
 ### ☁️ DevOps & Cloud
@@ -105,21 +105,24 @@ Full-Stack Engineer specializing in Next.js, MERN with TypeScript, passionate ab
 ### 🤖 AI & Machine Learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=sklearn" title="scikit-learn" alt="scikit-learn" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://skillicons.dev/icons?i=jupyter" title="Jupyter" alt="Jupyter" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" title="Jupyter" alt="Jupyter" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" alt="TensorFlow" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" alt="PyTorch" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" alt="NumPy" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" alt="Pandas" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" title="Matplotlib" alt="Matplotlib" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" title="OpenAI" alt="OpenAI" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
-  <img src="https://img.shields.io/badge/Claude-4285F4?style=for-the-badge&logo=claude&logoColor=white" title="Claude" alt="Claude" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" title="Claude" alt="Claude" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" title="Google Gemini" alt="Google Gemini" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" alt="IntelliJ IDEA" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=notion" title="Notion" alt="Notion" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" title="Stack Overflow" alt="Stack Overflow" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://skillicons.dev/icons?i=md" title="Markdown" alt="Markdown" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" title="Cursor" alt="Cursor" height="45" style="margin-right: 4px; margin-bottom: 6px;" />
 </p>
@@ -154,7 +157,7 @@ I am always open to discussing full-stack opportunities, scalable system design,
 
 *⚡ Automatically generated with ❤️ using [Node.js](https://nodejs.org), [Mustache](https://mustache.github.io/), and [GitHub Actions](https://github.com/features/actions).*
 
-`Last updated: Wed, 05 Aug 2026 16:52:47 GMT`
+`Last updated: Wed, 05 Aug 2026 17:11:09 GMT`
 
 © 2026 Anurag (anurag150304). All rights reserved.
 
