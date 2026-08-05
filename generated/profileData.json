@@ -162,12 +162,24 @@
             "icon": "express"
           },
           {
-            "name": "Elysia.js",
-            "badge": "https://img.shields.io/badge/Elysia.js-010101?style=for-the-badge&logo=elysiajs&logoColor=white"
+            "name": "TurboRepo",
+            "icon": "turborepo"
           },
           {
             "name": "Django",
             "icon": "django"
+          },
+          {
+            "name": "Elysia.js",
+            "badge": "https://img.shields.io/badge/Elysia.js-010101?style=for-the-badge&logo=elysiajs&logoColor=white"
+          },
+          {
+            "name": "REST APIs",
+            "badge": "https://img.shields.io/badge/REST_API-005571?style=for-the-badge"
+          },
+          {
+            "name": "JWT",
+            "badge": "https://img.shields.io/badge/JWT-000000?style=for-the-badge"
           },
           {
             "name": "WebSockets",
@@ -189,6 +201,10 @@
           {
             "name": "MongoDB",
             "icon": "mongodb"
+          },
+          {
+            "name": "MariaDB",
+            "icon": "mysql"
           },
           {
             "name": "Redis",
@@ -236,6 +252,10 @@
             "icon": "aws"
           },
           {
+            "name": "GCP",
+            "icon": "gcp"
+          },
+          {
             "name": "npm",
             "icon": "npm"
           },
@@ -253,6 +273,18 @@
         "title": "🤖 AI & Machine Learning",
         "skills": [
           {
+            "name": "scikit-learn",
+            "icon": "sklearn"
+          },
+          {
+            "name": "Jupyter",
+            "icon": "jupyter"
+          },
+          {
+            "name": "TensorFlow",
+            "icon": "tensorflow"
+          },
+          {
             "name": "NumPy",
             "badge": "https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
           },
@@ -263,14 +295,6 @@
           {
             "name": "Matplotlib",
             "badge": "https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"
-          },
-          {
-            "name": "Scikit-learn",
-            "badge": "https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"
-          },
-          {
-            "name": "Jupyter",
-            "badge": "https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"
           },
           {
             "name": "OpenAI",
@@ -294,16 +318,20 @@
             "icon": "vscode"
           },
           {
-            "name": "Cursor",
-            "badge": "https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"
-          },
-          {
             "name": "Postman",
             "icon": "postman"
           },
           {
             "name": "Notion",
             "icon": "notion"
+          },
+          {
+            "name": "Markdown",
+            "icon": "md"
+          },
+          {
+            "name": "Cursor",
+            "badge": "https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"
           }
         ]
       }
@@ -476,8 +504,8 @@
     }
   ],
   "quote": {
-    "quote": "First, solve the problem. Then, write the code.",
-    "author": "John Johnson"
+    "quote": "Simplicity is prerequisite for reliability.",
+    "author": "Edsger W. Dijkstra"
   },
   "coding": {
     "totalHours": "38 hrs 45 mins (This Week)",
@@ -505,6 +533,6 @@
       }
     ]
   },
-  "lastUpdated": "Wed, 05 Aug 2026 16:44:00 GMT",
+  "lastUpdated": "Wed, 05 Aug 2026 16:52:47 GMT",
   "generatedYear": 2026
 }
