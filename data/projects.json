@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Inventory Stock Management System",
+    "emoji": "📦",
+    "description": "Production-grade multi-branch inventory tracking system with WebSockets real-time updates, quantity reconciliation, multi-branch transfers, optimistic concurrency versioning, and transaction audit trails.",
+    "stack": ["TypeScript", "React.js", "WebSockets", "PostgreSQL", "Google Apps Script"],
+    "repo": "https://github.com/anurag150304/inventory-stock-system",
+    "liveDemo": "https://inventory-system-demo.vercel.app",
+    "stars": 12,
+    "status": "Production Ready",
+    "pinned": true,
+    "highlights": "Reduced cutting stock reconciliation errors by 90% and optimized real-time stock computation performance."
+  },
+  {
+    "name": "Enterprise HRMS Platform",
+    "emoji": "👥",
+    "description": "Full-stack internal HR management system for employee onboarding, leave management, payroll reporting, and performance tracking across enterprise teams.",
+    "stack": ["TypeScript", "React.js", "PostgreSQL", "Express.js", "Prisma"],
+    "repo": "https://github.com/anurag150304/enterprise-hrms",
+    "liveDemo": "https://hrms-demo.vercel.app",
+    "stars": 8,
+    "status": "Active",
+    "pinned": true,
+    "highlights": "Serving 100+ active internal users across multiple teams."
+  },
+  {
+    "name": "Enterprise Marketing & Sales CRM",
+    "emoji": "💼",
+    "description": "Automated sales pipeline tracking & customer relationship manager featuring real-time data sync, cross-department reporting workflows, and analytics dashboard.",
+    "stack": ["TypeScript", "Next.js", "Node.js", "PostgreSQL", "Redux"],
+    "repo": "https://github.com/anurag150304/enterprise-crm-suite",
+    "liveDemo": "https://crm-suite-demo.vercel.app",
+    "stars": 15,
+    "status": "Active",
+    "pinned": true,
+    "highlights": "Automated cross-department operations, reducing manual reporting effort by 60%."
+  },
+  {
+    "name": "Real-Time Microservices Pub/Sub Hub",
+    "emoji": "⚡",
+    "description": "Distributed real-time message broker interface built with Node.js WebSockets and Redis Pub/Sub, engineered to scale server instances horizontally under high load.",
+    "stack": ["TypeScript", "Node.js", "Redis", "Docker", "WebSockets"],
+    "repo": "https://github.com/anurag150304/realtime-pubsub-hub",
+    "liveDemo": "https://pubsub-hub.vercel.app",
+    "stars": 24,
+    "status": "Open Source",
+    "pinned": true,
+    "highlights": "Demonstrates pub/sub scaling, connection pooling, and optimistic state synchronization."
+  }
+]

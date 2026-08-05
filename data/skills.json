@@ -1,0 +1,62 @@
+{
+  "categories": [
+    {
+      "name": "Languages",
+      "icon": "⚡",
+      "skills": [
+        { "name": "TypeScript", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" },
+        { "name": "JavaScript", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" },
+        { "name": "Core Java", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" }
+      ]
+    },
+    {
+      "name": "Frontend",
+      "icon": "🎨",
+      "skills": [
+        { "name": "Next.js", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" },
+        { "name": "React.js", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" },
+        { "name": "Redux / Zustand", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" },
+        { "name": "Tailwind CSS", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" },
+        { "name": "ShadCN UI", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" }
+      ]
+    },
+    {
+      "name": "Backend",
+      "icon": "⚙️",
+      "skills": [
+        { "name": "Node.js", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" },
+        { "name": "Express.js", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" },
+        { "name": "WebSockets (ws / socket.io)", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" },
+        { "name": "Redis (Pub/Sub & Scale)", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" }
+      ]
+    },
+    {
+      "name": "Database",
+      "icon": "🗄️",
+      "skills": [
+        { "name": "PostgreSQL", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" },
+        { "name": "MongoDB Atlas", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" },
+        { "name": "Prisma (ORM)", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" }
+      ]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "icon": "☁️",
+      "skills": [
+        { "name": "AWS", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" },
+        { "name": "Docker", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" },
+        { "name": "Git & GitHub", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" },
+        { "name": "Linux (Ubuntu)", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" }
+      ]
+    },
+    {
+      "name": "Architecture & Practices",
+      "icon": "📐",
+      "skills": [
+        { "name": "Data Structures & Algorithms", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" },
+        { "name": "CI/CD Integration", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" },
+        { "name": "Agile & Conflict Resolution", "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" }
+      ]
+    }
+  ]
+}

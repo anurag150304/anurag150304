@@ -1,0 +1,22 @@
+[
+  {
+    "company": "Candid Optronix Pvt Ltd",
+    "role": "Full-Stack Developer",
+    "period": "AUG 2025 - FEB 2026",
+    "location": "India",
+    "type": "Full-time",
+    "summary": "Engineered enterprise-grade platforms and high-throughput real-time inventory systems.",
+    "highlights": [
+      "Built and owned 3 internal enterprise platforms (HRMS, Marketing CRM, Sales CRM) using TypeScript, React.js, Google Apps Script, and PostgreSQL, supporting 100+ active internal users across multiple teams.",
+      "Designed end-to-end, real-time data workflows that automated cross-department operations, reducing manual reporting effort by 60% and improving data consistency across systems.",
+      "Architected and built a production-grade Inventory Stock Management system using TypeScript, React.js, WebSockets, Google Apps Script, and PostgreSQL, enabling real-time inventory tracking, multi-branch transfers, quantity reconciliation, and full transaction traceability.",
+      "Solved high-impact system challenges including concurrency control, optimistic versioning, inventory hierarchies, and cutting stock reconciliation errors by 90% and improving stock computation performance."
+    ],
+    "metrics": [
+      { "label": "Active Internal Users", "value": "100+" },
+      { "label": "Reporting Effort Saved", "value": "60%" },
+      { "label": "Stock Reconciliation Error Reduction", "value": "90%" }
+    ],
+    "techStack": ["TypeScript", "React.js", "WebSockets", "PostgreSQL", "Google Apps Script", "Node.js"]
+  }
+]

@@ -1,0 +1,49 @@
+## 👨‍💻 About Me
+
+{{profile.bio}}
+
+### 💡 Quick Highlights & Core Competencies
+{{#profile.quickFacts}}
+- {{{.}}}
+{{/profile.quickFacts}}
+
+<br/>
+
+> **🎯 Current Engineering Focus**: {{profile.currentFocus}}
+
+---
+
+## 💼 Professional Experience
+
+{{#experience}}
+### 🏢 {{company}} — *{{role}}*
+`📅 {{period}}` | `📍 {{location}}` | `🏷️ {{type}}`
+
+{{summary}}
+
+#### Key Accomplishments & Impact:
+{{#highlights}}
+- 🚀 {{{.}}}
+{{/highlights}}
+
+#### Impact Metrics:
+| Metric | Value |
+| :--- | :--- |
+{{#metrics}}
+| **{{label}}** | `{{value}}` |
+{{/metrics}}
+
+**Tech Stack**: {{#techStack}}`{{.}}` {{/techStack}}
+
+---
+{{/experience}}
+
+## 🛣️ Learning Roadmap (2026)
+
+| Topic / Focus Area | Progress | Status | Details |
+| :--- | :---: | :---: | :--- |
+{{#learning.items}}
+| **{{topic}}** | `{{progress}}` | `{{status}}` | {{details}} |
+{{/learning.items}}
+
+---

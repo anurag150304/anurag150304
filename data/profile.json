@@ -1,0 +1,17 @@
+{
+  "name": "Anurag",
+  "username": "anurag150304",
+  "role": "Full-Stack Developer",
+  "tagline": "Specializing in MERN, Next.js, TypeScript & Scalable Real-Time Systems",
+  "location": "India",
+  "status": "🚀 Open to exciting Full-Stack & Systems Engineering opportunities",
+  "bio": "Full-Stack Developer with 1+ year of professional experience, specializing in MERN and Next.js ecosystems, TypeScript, and scalable system architecture. Proficient in building real-time, high-performance applications using WebSockets and microservices. Passionate about delivering production-ready solutions by effectively bridging development and deployment.",
+  "currentFocus": "Deepening microservices architectural patterns, distributed caching with Redis, and container orchestration with Docker & AWS.",
+  "quickFacts": [
+    "⚡ Built enterprise HRMS, Sales CRM & Marketing CRM platforms for 100+ active users",
+    "📦 Architected real-time Inventory Stock System cutting reconciliation errors by 90%",
+    "📊 Reduced cross-department manual reporting effort by 60%",
+    "🔥 Expert in WebSockets, Optimistic Concurrency Control & PostgreSQL/Prisma",
+    "🚀 Passionate about clean code, SOLID principles, and DSA"
+  ]
+}

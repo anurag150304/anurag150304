@@ -1,0 +1,23 @@
+## 📰 Latest Articles & Writing
+
+{{#blog}}
+- 📝 [**{{title}}**]({{link}}) — *{{pubDate}}*
+  > {{snippet}}
+{{/blog}}
+
+---
+
+## ⏱️ Weekly Coding Activity
+
+```text
+Total Time Spent Coding: {{coding.totalHours}}
+Daily Average:           {{coding.dailyAverage}}
+```
+
+| Language / Tech | Share | Time Tracked |
+| :--- | :---: | :--- |
+{{#coding.topLanguages}}
+| **{{name}}** | `{{percent}}%` | {{text}} |
+{{/coding.topLanguages}}
+
+---

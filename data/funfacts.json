@@ -1,0 +1,26 @@
+{
+  "quotes": [
+    {
+      "quote": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson"
+    },
+    {
+      "quote": "Simplicity is prerequisite for reliability.",
+      "author": "Edsger W. Dijkstra"
+    },
+    {
+      "quote": "Make it work, make it right, make it fast.",
+      "author": "Kent Beck"
+    },
+    {
+      "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "author": "Martin Fowler"
+    }
+  ],
+  "trivia": [
+    "☕ Fueled by black coffee and low-latency system design discussions.",
+    "💡 Concurrency control & optimistic locking are my favorite engineering challenges.",
+    "🐧 Running Ubuntu Linux on dev environment."
+  ],
+  "currentBook": "Designing Data-Intensive Applications by Martin Kleppmann"
+}

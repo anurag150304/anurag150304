@@ -1,0 +1,29 @@
+{
+  "title": "Learning Roadmap & Technical Aspirations (2026)",
+  "items": [
+    {
+      "topic": "Distributed Systems & Event-Driven Architecture",
+      "status": "In Progress",
+      "progress": "85%",
+      "details": "Deepening Kafka event streaming, Redis cluster scaling, and distributed locks."
+    },
+    {
+      "topic": "Kubernetes & Cloud Infrastructure Automation",
+      "status": "In Progress",
+      "progress": "70%",
+      "details": "Deploying microservices with K8s, Helm charts, and terraform on AWS."
+    },
+    {
+      "topic": "Advanced Database Optimization & Sharding",
+      "status": "Next Up",
+      "progress": "60%",
+      "details": "Mastering PostgreSQL indexing strategies, connection pooling with PgBouncer, and horizontal sharding."
+    },
+    {
+      "topic": "System Design & Low-Level Design (LLD)",
+      "status": "Ongoing",
+      "progress": "90%",
+      "details": "Practicing complex LLD patterns (Design Patterns, Clean Architecture, SOLID)."
+    }
+  ]
+}

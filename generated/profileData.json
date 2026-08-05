@@ -1,0 +1,426 @@
+{
+  "profile": {
+    "name": "Anurag",
+    "username": "anurag150304",
+    "role": "Full-Stack Developer",
+    "tagline": "Specializing in MERN, Next.js, TypeScript & Scalable Real-Time Systems",
+    "location": "India",
+    "status": "🚀 Open to exciting Full-Stack & Systems Engineering opportunities",
+    "bio": "Full-Stack Developer with 1+ year of professional experience, specializing in MERN and Next.js ecosystems, TypeScript, and scalable system architecture. Proficient in building real-time, high-performance applications using WebSockets and microservices. Passionate about delivering production-ready solutions by effectively bridging development and deployment.",
+    "currentFocus": "Deepening microservices architectural patterns, distributed caching with Redis, and container orchestration with Docker & AWS.",
+    "quickFacts": [
+      "⚡ Built enterprise HRMS, Sales CRM & Marketing CRM platforms for 100+ active users",
+      "📦 Architected real-time Inventory Stock System cutting reconciliation errors by 90%",
+      "📊 Reduced cross-department manual reporting effort by 60%",
+      "🔥 Expert in WebSockets, Optimistic Concurrency Control & PostgreSQL/Prisma",
+      "🚀 Passionate about clean code, SOLID principles, and DSA"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Real-Time Microservices Pub/Sub Hub",
+      "emoji": "⚡",
+      "description": "Distributed real-time message broker interface built with Node.js WebSockets and Redis Pub/Sub, engineered to scale server instances horizontally under high load.",
+      "stack": [
+        "TypeScript",
+        "Node.js",
+        "Redis",
+        "Docker",
+        "WebSockets"
+      ],
+      "repo": "https://github.com/anurag150304/realtime-pubsub-hub",
+      "liveDemo": "https://pubsub-hub.vercel.app",
+      "stars": 24,
+      "status": "Open Source",
+      "pinned": true,
+      "highlights": "Demonstrates pub/sub scaling, connection pooling, and optimistic state synchronization."
+    },
+    {
+      "name": "Enterprise Marketing & Sales CRM",
+      "emoji": "💼",
+      "description": "Automated sales pipeline tracking & customer relationship manager featuring real-time data sync, cross-department reporting workflows, and analytics dashboard.",
+      "stack": [
+        "TypeScript",
+        "Next.js",
+        "Node.js",
+        "PostgreSQL",
+        "Redux"
+      ],
+      "repo": "https://github.com/anurag150304/enterprise-crm-suite",
+      "liveDemo": "https://crm-suite-demo.vercel.app",
+      "stars": 15,
+      "status": "Active",
+      "pinned": true,
+      "highlights": "Automated cross-department operations, reducing manual reporting effort by 60%."
+    },
+    {
+      "name": "Inventory Stock Management System",
+      "emoji": "📦",
+      "description": "Production-grade multi-branch inventory tracking system with WebSockets real-time updates, quantity reconciliation, multi-branch transfers, optimistic concurrency versioning, and transaction audit trails.",
+      "stack": [
+        "TypeScript",
+        "React.js",
+        "WebSockets",
+        "PostgreSQL",
+        "Google Apps Script"
+      ],
+      "repo": "https://github.com/anurag150304/inventory-stock-system",
+      "liveDemo": "https://inventory-system-demo.vercel.app",
+      "stars": 12,
+      "status": "Production Ready",
+      "pinned": true,
+      "highlights": "Reduced cutting stock reconciliation errors by 90% and optimized real-time stock computation performance."
+    },
+    {
+      "name": "Enterprise HRMS Platform",
+      "emoji": "👥",
+      "description": "Full-stack internal HR management system for employee onboarding, leave management, payroll reporting, and performance tracking across enterprise teams.",
+      "stack": [
+        "TypeScript",
+        "React.js",
+        "PostgreSQL",
+        "Express.js",
+        "Prisma"
+      ],
+      "repo": "https://github.com/anurag150304/enterprise-hrms",
+      "liveDemo": "https://hrms-demo.vercel.app",
+      "stars": 8,
+      "status": "Active",
+      "pinned": true,
+      "highlights": "Serving 100+ active internal users across multiple teams."
+    }
+  ],
+  "social": {
+    "github": "https://github.com/anurag150304",
+    "linkedin": "https://linkedin.com/in/anurag150304",
+    "email": "anurag.dev@example.com",
+    "portfolio": "https://anurag150304.github.io",
+    "twitter": "https://twitter.com/anurag150304"
+  },
+  "skills": {
+    "categories": [
+      {
+        "name": "Languages",
+        "icon": "⚡",
+        "skills": [
+          {
+            "name": "TypeScript",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+          },
+          {
+            "name": "JavaScript",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+          },
+          {
+            "name": "Core Java",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+          }
+        ]
+      },
+      {
+        "name": "Frontend",
+        "icon": "🎨",
+        "skills": [
+          {
+            "name": "Next.js",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+          },
+          {
+            "name": "React.js",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+          },
+          {
+            "name": "Redux / Zustand",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+          },
+          {
+            "name": "Tailwind CSS",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+          },
+          {
+            "name": "ShadCN UI",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+          }
+        ]
+      },
+      {
+        "name": "Backend",
+        "icon": "⚙️",
+        "skills": [
+          {
+            "name": "Node.js",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+          },
+          {
+            "name": "Express.js",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"
+          },
+          {
+            "name": "WebSockets (ws / socket.io)",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg"
+          },
+          {
+            "name": "Redis (Pub/Sub & Scale)",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
+          }
+        ]
+      },
+      {
+        "name": "Database",
+        "icon": "🗄️",
+        "skills": [
+          {
+            "name": "PostgreSQL",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+          },
+          {
+            "name": "MongoDB Atlas",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+          },
+          {
+            "name": "Prisma (ORM)",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg"
+          }
+        ]
+      },
+      {
+        "name": "Cloud & DevOps",
+        "icon": "☁️",
+        "skills": [
+          {
+            "name": "AWS",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+          },
+          {
+            "name": "Docker",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+          },
+          {
+            "name": "Git & GitHub",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+          },
+          {
+            "name": "Linux (Ubuntu)",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"
+          }
+        ]
+      },
+      {
+        "name": "Architecture & Practices",
+        "icon": "📐",
+        "skills": [
+          {
+            "name": "Data Structures & Algorithms",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+          },
+          {
+            "name": "CI/CD Integration",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg"
+          },
+          {
+            "name": "Agile & Conflict Resolution",
+            "iconUrl": "https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg"
+          }
+        ]
+      }
+    ]
+  },
+  "learning": {
+    "title": "Learning Roadmap & Technical Aspirations (2026)",
+    "items": [
+      {
+        "topic": "Distributed Systems & Event-Driven Architecture",
+        "status": "In Progress",
+        "progress": "85%",
+        "details": "Deepening Kafka event streaming, Redis cluster scaling, and distributed locks."
+      },
+      {
+        "topic": "Kubernetes & Cloud Infrastructure Automation",
+        "status": "In Progress",
+        "progress": "70%",
+        "details": "Deploying microservices with K8s, Helm charts, and terraform on AWS."
+      },
+      {
+        "topic": "Advanced Database Optimization & Sharding",
+        "status": "Next Up",
+        "progress": "60%",
+        "details": "Mastering PostgreSQL indexing strategies, connection pooling with PgBouncer, and horizontal sharding."
+      },
+      {
+        "topic": "System Design & Low-Level Design (LLD)",
+        "status": "Ongoing",
+        "progress": "90%",
+        "details": "Practicing complex LLD patterns (Design Patterns, Clean Architecture, SOLID)."
+      }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Candid Optronix Pvt Ltd",
+      "role": "Full-Stack Developer",
+      "period": "AUG 2025 - FEB 2026",
+      "location": "India",
+      "type": "Full-time",
+      "summary": "Engineered enterprise-grade platforms and high-throughput real-time inventory systems.",
+      "highlights": [
+        "Built and owned 3 internal enterprise platforms (HRMS, Marketing CRM, Sales CRM) using TypeScript, React.js, Google Apps Script, and PostgreSQL, supporting 100+ active internal users across multiple teams.",
+        "Designed end-to-end, real-time data workflows that automated cross-department operations, reducing manual reporting effort by 60% and improving data consistency across systems.",
+        "Architected and built a production-grade Inventory Stock Management system using TypeScript, React.js, WebSockets, Google Apps Script, and PostgreSQL, enabling real-time inventory tracking, multi-branch transfers, quantity reconciliation, and full transaction traceability.",
+        "Solved high-impact system challenges including concurrency control, optimistic versioning, inventory hierarchies, and cutting stock reconciliation errors by 90% and improving stock computation performance."
+      ],
+      "metrics": [
+        {
+          "label": "Active Internal Users",
+          "value": "100+"
+        },
+        {
+          "label": "Reporting Effort Saved",
+          "value": "60%"
+        },
+        {
+          "label": "Stock Reconciliation Error Reduction",
+          "value": "90%"
+        }
+      ],
+      "techStack": [
+        "TypeScript",
+        "React.js",
+        "WebSockets",
+        "PostgreSQL",
+        "Google Apps Script",
+        "Node.js"
+      ]
+    }
+  ],
+  "funfacts": {
+    "quotes": [
+      {
+        "quote": "First, solve the problem. Then, write the code.",
+        "author": "John Johnson"
+      },
+      {
+        "quote": "Simplicity is prerequisite for reliability.",
+        "author": "Edsger W. Dijkstra"
+      },
+      {
+        "quote": "Make it work, make it right, make it fast.",
+        "author": "Kent Beck"
+      },
+      {
+        "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+        "author": "Martin Fowler"
+      }
+    ],
+    "trivia": [
+      "☕ Fueled by black coffee and low-latency system design discussions.",
+      "💡 Concurrency control & optimistic locking are my favorite engineering challenges.",
+      "🐧 Running Ubuntu Linux on dev environment."
+    ],
+    "currentBook": "Designing Data-Intensive Applications by Martin Kleppmann"
+  },
+  "github": {
+    "username": "anurag150304",
+    "name": "ANURAG",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/112794726?v=4",
+    "followers": 1,
+    "following": 1,
+    "publicRepos": 23,
+    "totalStars": 0,
+    "totalForks": 0,
+    "bio": "Aspiring SWE | Proficient in Full-Stack Development | Exploring AI ML | Fast Learner",
+    "location": "Delhi",
+    "recentRepos": [
+      {
+        "name": "anurag150304",
+        "description": "No description provided.",
+        "url": "https://github.com/anurag150304/anurag150304",
+        "language": "JavaScript",
+        "stars": 0,
+        "forks": 0
+      },
+      {
+        "name": "Pincode-Tracker",
+        "description": "No description provided.",
+        "url": "https://github.com/anurag150304/Pincode-Tracker",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0
+      },
+      {
+        "name": "Open-Router",
+        "description": "No description provided.",
+        "url": "https://github.com/anurag150304/Open-Router",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0
+      },
+      {
+        "name": "pi",
+        "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "url": "https://github.com/anurag150304/pi",
+        "language": "JavaScript",
+        "stars": 0,
+        "forks": 0
+      }
+    ]
+  },
+  "activity": [
+    "🔨 Pushed to [anurag150304/anurag150304](https://github.com/anurag150304/anurag150304): *\"Updated codebase\"*",
+    "🔨 Pushed to [anurag150304/anurag150304](https://github.com/anurag150304/anurag150304): *\"Updated codebase\"*",
+    "🚀 Created branch in [anurag150304/Pincode-Tracker](https://github.com/anurag150304/Pincode-Tracker)",
+    "🔨 Pushed to [anurag150304/Open-Router](https://github.com/anurag150304/Open-Router): *\"Updated codebase\"*",
+    "🔨 Pushed to [anurag150304/Open-Router](https://github.com/anurag150304/Open-Router): *\"Updated codebase\"*"
+  ],
+  "blog": [
+    {
+      "title": "Building Real-Time Inventory Tracking Systems with WebSockets & PostgreSQL",
+      "link": "https://github.com/anurag150304",
+      "pubDate": "Feb 2026",
+      "snippet": "How optimistic versioning and WebSockets solved concurrency control and reduced stock reconciliation errors by 90%."
+    },
+    {
+      "title": "Scaling Next.js & Node.js Applications with Redis Pub/Sub",
+      "link": "https://github.com/anurag150304",
+      "pubDate": "Jan 2026",
+      "snippet": "A practical guide to scaling WebSocket servers horizontally across microservice containers."
+    },
+    {
+      "title": "Clean Architecture in TypeScript & Prisma ORM",
+      "link": "https://github.com/anurag150304",
+      "pubDate": "Dec 2025",
+      "snippet": "Structuring full-stack enterprise applications for maintainability and 60% faster reporting workflows."
+    }
+  ],
+  "quote": {
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler"
+  },
+  "coding": {
+    "totalHours": "38 hrs 45 mins (This Week)",
+    "dailyAverage": "5 hrs 30 mins / day",
+    "topLanguages": [
+      {
+        "name": "TypeScript",
+        "percent": 45,
+        "text": "17 hrs 25 mins"
+      },
+      {
+        "name": "JavaScript / React",
+        "percent": 30,
+        "text": "11 hrs 35 mins"
+      },
+      {
+        "name": "PostgreSQL / SQL",
+        "percent": 15,
+        "text": "5 hrs 45 mins"
+      },
+      {
+        "name": "Docker / DevOps",
+        "percent": 10,
+        "text": "3 hrs 50 mins"
+      }
+    ]
+  },
+  "lastUpdated": "Wed, 05 Aug 2026 10:06:23 GMT",
+  "generatedYear": 2026
+}

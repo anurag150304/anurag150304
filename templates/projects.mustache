@@ -1,0 +1,18 @@
+## 🚀 Featured Projects
+
+{{#projects}}
+### {{emoji}} {{name}} {{#pinned}}📌 *[Pinned]*{{/pinned}}
+`Status: {{status}}` | `⭐ Stars: {{stars}}`
+
+{{description}}
+
+{{#highlights}}
+> 🌟 **Key Innovation**: {{highlights}}
+{{/highlights}}
+
+**Tech Stack**: {{#stack}}`{{.}}` {{/stack}}
+
+[🔗 Source Code]({{repo}}) | [🌐 Live Demo]({{liveDemo}})
+
+---
+{{/projects}}

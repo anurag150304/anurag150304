@@ -1,0 +1,27 @@
+{
+  "name": "anurag150304-profile-generator",
+  "version": "1.0.0",
+  "description": "Dynamic GitHub Profile README Generator powered by Node.js, Mustache, and GitHub Actions",
+  "type": "module",
+  "main": "scripts/generate.js",
+  "scripts": {
+    "generate": "node scripts/generate.js",
+    "start": "node scripts/generate.js"
+  },
+  "keywords": [
+    "github-profile",
+    "readme-generator",
+    "mustache",
+    "portfolio",
+    "developer-profile"
+  ],
+  "author": "Anurag",
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/rest": "^20.0.2",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "mustache": "^4.2.0",
+    "rss-parser": "^3.13.0"
+  }
+}
