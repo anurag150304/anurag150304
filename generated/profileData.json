@@ -522,8 +522,8 @@
     }
   ],
   "quote": {
-    "quote": "Simplicity is prerequisite for reliability.",
-    "author": "Edsger W. Dijkstra"
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler"
   },
   "coding": {
     "totalHours": "38 hrs 45 mins (This Week)",
@@ -551,6 +551,6 @@
       }
     ]
   },
-  "lastUpdated": "Thu, 06 Aug 2026 02:16:20 GMT",
+  "lastUpdated": "Fri, 07 Aug 2026 02:30:55 GMT",
   "generatedYear": 2026
 }
