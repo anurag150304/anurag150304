@@ -454,12 +454,20 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/112794726?v=4",
     "followers": 2,
     "following": 1,
-    "publicRepos": 23,
+    "publicRepos": 24,
     "totalStars": 0,
     "totalForks": 0,
     "bio": "Aspiring SWE | Proficient in Full-Stack Development | Exploring AI ML | Fast Learner",
     "location": "Delhi",
     "recentRepos": [
+      {
+        "name": "Ticket-Booking-App",
+        "description": "No description provided.",
+        "url": "https://github.com/anurag150304/Ticket-Booking-App",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0
+      },
       {
         "name": "anurag150304",
         "description": "No description provided.",
@@ -483,23 +491,15 @@
         "language": "TypeScript",
         "stars": 0,
         "forks": 0
-      },
-      {
-        "name": "pi",
-        "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-        "url": "https://github.com/anurag150304/pi",
-        "language": "JavaScript",
-        "stars": 0,
-        "forks": 0
       }
     ]
   },
   "activity": [
-    "🔨 Pushed to [anurag150304/anurag150304](https://github.com/anurag150304/anurag150304): *\"Updated codebase\"*",
-    "🔨 Pushed to [anurag150304/anurag150304](https://github.com/anurag150304/anurag150304): *\"Updated codebase\"*",
-    "🔨 Pushed to [anurag150304/anurag150304](https://github.com/anurag150304/anurag150304): *\"Updated codebase\"*",
-    "🔨 Pushed to [anurag150304/anurag150304](https://github.com/anurag150304/anurag150304): *\"Updated codebase\"*",
-    "🔨 Pushed to [anurag150304/anurag150304](https://github.com/anurag150304/anurag150304): *\"Updated codebase\"*"
+    "🔨 Pushed to [anurag150304/Ticket-Booking-App](https://github.com/anurag150304/Ticket-Booking-App): *\"Updated codebase\"*",
+    "🔨 Pushed to [anurag150304/Ticket-Booking-App](https://github.com/anurag150304/Ticket-Booking-App): *\"Updated codebase\"*",
+    "🔨 Pushed to [anurag150304/Ticket-Booking-App](https://github.com/anurag150304/Ticket-Booking-App): *\"Updated codebase\"*",
+    "🔨 Pushed to [anurag150304/Ticket-Booking-App](https://github.com/anurag150304/Ticket-Booking-App): *\"Updated codebase\"*",
+    "🔨 Pushed to [anurag150304/Ticket-Booking-App](https://github.com/anurag150304/Ticket-Booking-App): *\"Updated codebase\"*"
   ],
   "blog": [
     {
@@ -551,6 +551,6 @@
       }
     ]
   },
-  "lastUpdated": "Fri, 14 Aug 2026 01:42:16 GMT",
+  "lastUpdated": "Sat, 15 Aug 2026 01:02:54 GMT",
   "generatedYear": 2026
 }
