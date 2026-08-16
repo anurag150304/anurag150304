@@ -461,18 +461,18 @@
     "location": "Delhi",
     "recentRepos": [
       {
-        "name": "Ticket-Booking-App",
-        "description": "No description provided.",
-        "url": "https://github.com/anurag150304/Ticket-Booking-App",
-        "language": "TypeScript",
-        "stars": 0,
-        "forks": 0
-      },
-      {
         "name": "anurag150304",
         "description": "No description provided.",
         "url": "https://github.com/anurag150304/anurag150304",
         "language": "JavaScript",
+        "stars": 0,
+        "forks": 0
+      },
+      {
+        "name": "Ticket-Booking-App",
+        "description": "No description provided.",
+        "url": "https://github.com/anurag150304/Ticket-Booking-App",
+        "language": "TypeScript",
         "stars": 0,
         "forks": 0
       },
@@ -551,6 +551,6 @@
       }
     ]
   },
-  "lastUpdated": "Sat, 15 Aug 2026 01:02:54 GMT",
+  "lastUpdated": "Sun, 16 Aug 2026 01:06:16 GMT",
   "generatedYear": 2026
 }
