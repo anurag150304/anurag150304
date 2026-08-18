@@ -461,18 +461,18 @@
     "location": "Delhi",
     "recentRepos": [
       {
-        "name": "anurag150304",
-        "description": "No description provided.",
-        "url": "https://github.com/anurag150304/anurag150304",
-        "language": "JavaScript",
-        "stars": 0,
-        "forks": 0
-      },
-      {
         "name": "Ticket-Booking-App",
         "description": "No description provided.",
         "url": "https://github.com/anurag150304/Ticket-Booking-App",
         "language": "TypeScript",
+        "stars": 0,
+        "forks": 0
+      },
+      {
+        "name": "anurag150304",
+        "description": "No description provided.",
+        "url": "https://github.com/anurag150304/anurag150304",
+        "language": "JavaScript",
         "stars": 0,
         "forks": 0
       },
@@ -522,8 +522,8 @@
     }
   ],
   "quote": {
-    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
-    "author": "Martin Fowler"
+    "quote": "Simplicity is prerequisite for reliability.",
+    "author": "Edsger W. Dijkstra"
   },
   "coding": {
     "totalHours": "38 hrs 45 mins (This Week)",
@@ -551,6 +551,6 @@
       }
     ]
   },
-  "lastUpdated": "Mon, 17 Aug 2026 01:03:54 GMT",
+  "lastUpdated": "Tue, 18 Aug 2026 01:02:22 GMT",
   "generatedYear": 2026
 }
