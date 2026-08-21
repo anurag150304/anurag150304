@@ -452,7 +452,7 @@
     "username": "anurag150304",
     "name": "ANURAG",
     "avatarUrl": "https://avatars.githubusercontent.com/u/112794726?v=4",
-    "followers": 2,
+    "followers": 1,
     "following": 1,
     "publicRepos": 24,
     "totalStars": 0,
@@ -461,18 +461,18 @@
     "location": "Delhi",
     "recentRepos": [
       {
-        "name": "Ticket-Booking-App",
-        "description": "No description provided.",
-        "url": "https://github.com/anurag150304/Ticket-Booking-App",
-        "language": "TypeScript",
-        "stars": 0,
-        "forks": 0
-      },
-      {
         "name": "anurag150304",
         "description": "No description provided.",
         "url": "https://github.com/anurag150304/anurag150304",
         "language": "JavaScript",
+        "stars": 0,
+        "forks": 0
+      },
+      {
+        "name": "Ticket-Booking-App",
+        "description": "No description provided.",
+        "url": "https://github.com/anurag150304/Ticket-Booking-App",
+        "language": "TypeScript",
         "stars": 0,
         "forks": 0
       },
@@ -522,8 +522,8 @@
     }
   ],
   "quote": {
-    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
-    "author": "Martin Fowler"
+    "quote": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck"
   },
   "coding": {
     "totalHours": "38 hrs 45 mins (This Week)",
@@ -551,6 +551,6 @@
       }
     ]
   },
-  "lastUpdated": "Thu, 20 Aug 2026 01:02:37 GMT",
+  "lastUpdated": "Fri, 21 Aug 2026 01:06:12 GMT",
   "generatedYear": 2026
 }
