@@ -454,12 +454,20 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/112794726?v=4",
     "followers": 1,
     "following": 1,
-    "publicRepos": 24,
+    "publicRepos": 25,
     "totalStars": 0,
     "totalForks": 0,
     "bio": "Aspiring SWE | Proficient in Full-Stack Development | Exploring AI ML | Fast Learner",
     "location": "Delhi",
     "recentRepos": [
+      {
+        "name": "Trello",
+        "description": "No description provided.",
+        "url": "https://github.com/anurag150304/Trello",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0
+      },
       {
         "name": "anurag150304",
         "description": "No description provided.",
@@ -483,20 +491,12 @@
         "language": "TypeScript",
         "stars": 0,
         "forks": 0
-      },
-      {
-        "name": "Open-Router",
-        "description": "No description provided.",
-        "url": "https://github.com/anurag150304/Open-Router",
-        "language": "TypeScript",
-        "stars": 0,
-        "forks": 0
       }
     ]
   },
   "activity": [
-    "🔨 Pushed to [anurag150304/Ticket-Booking-App](https://github.com/anurag150304/Ticket-Booking-App): *\"Updated codebase\"*",
-    "🔨 Pushed to [anurag150304/Ticket-Booking-App](https://github.com/anurag150304/Ticket-Booking-App): *\"Updated codebase\"*",
+    "🔨 Pushed to [anurag150304/Trello](https://github.com/anurag150304/Trello): *\"Updated codebase\"*",
+    "🚀 Created branch in [anurag150304/Trello](https://github.com/anurag150304/Trello)",
     "🔨 Pushed to [anurag150304/Ticket-Booking-App](https://github.com/anurag150304/Ticket-Booking-App): *\"Updated codebase\"*",
     "🔨 Pushed to [anurag150304/Ticket-Booking-App](https://github.com/anurag150304/Ticket-Booking-App): *\"Updated codebase\"*",
     "🔨 Pushed to [anurag150304/Ticket-Booking-App](https://github.com/anurag150304/Ticket-Booking-App): *\"Updated codebase\"*"
@@ -522,8 +522,8 @@
     }
   ],
   "quote": {
-    "quote": "Simplicity is prerequisite for reliability.",
-    "author": "Edsger W. Dijkstra"
+    "quote": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson"
   },
   "coding": {
     "totalHours": "38 hrs 45 mins (This Week)",
@@ -551,6 +551,6 @@
       }
     ]
   },
-  "lastUpdated": "Sun, 23 Aug 2026 01:07:39 GMT",
+  "lastUpdated": "Mon, 24 Aug 2026 01:05:23 GMT",
   "generatedYear": 2026
 }
