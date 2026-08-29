@@ -461,18 +461,18 @@
     "location": "Delhi",
     "recentRepos": [
       {
-        "name": "Trello",
-        "description": "No description provided.",
-        "url": "https://github.com/anurag150304/Trello",
-        "language": "TypeScript",
-        "stars": 0,
-        "forks": 0
-      },
-      {
         "name": "anurag150304",
         "description": "No description provided.",
         "url": "https://github.com/anurag150304/anurag150304",
         "language": "JavaScript",
+        "stars": 0,
+        "forks": 0
+      },
+      {
+        "name": "Trello",
+        "description": "No description provided.",
+        "url": "https://github.com/anurag150304/Trello",
+        "language": "TypeScript",
         "stars": 0,
         "forks": 0
       },
@@ -522,8 +522,8 @@
     }
   ],
   "quote": {
-    "quote": "Simplicity is prerequisite for reliability.",
-    "author": "Edsger W. Dijkstra"
+    "quote": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck"
   },
   "coding": {
     "totalHours": "38 hrs 45 mins (This Week)",
@@ -551,6 +551,6 @@
       }
     ]
   },
-  "lastUpdated": "Fri, 28 Aug 2026 08:57:26 GMT",
+  "lastUpdated": "Sat, 29 Aug 2026 05:32:17 GMT",
   "generatedYear": 2026
 }
