@@ -454,12 +454,20 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/112794726?v=4",
     "followers": 1,
     "following": 1,
-    "publicRepos": 25,
+    "publicRepos": 26,
     "totalStars": 0,
     "totalForks": 0,
     "bio": "Aspiring SWE | Proficient in Full-Stack Development | Exploring AI ML | Fast Learner",
     "location": "Delhi",
     "recentRepos": [
+      {
+        "name": "Stock-Inventory",
+        "description": "No description provided.",
+        "url": "https://github.com/anurag150304/Stock-Inventory",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0
+      },
       {
         "name": "anurag150304",
         "description": "No description provided.",
@@ -483,21 +491,13 @@
         "language": "TypeScript",
         "stars": 0,
         "forks": 0
-      },
-      {
-        "name": "Pincode-Tracker",
-        "description": "No description provided.",
-        "url": "https://github.com/anurag150304/Pincode-Tracker",
-        "language": "TypeScript",
-        "stars": 0,
-        "forks": 0
       }
     ]
   },
   "activity": [
-    "🔨 Pushed to [anurag150304/Trello](https://github.com/anurag150304/Trello): *\"Updated codebase\"*",
-    "🔨 Pushed to [anurag150304/Trello](https://github.com/anurag150304/Trello): *\"Updated codebase\"*",
-    "🔨 Pushed to [anurag150304/Trello](https://github.com/anurag150304/Trello): *\"Updated codebase\"*",
+    "🔨 Pushed to [anurag150304/Stock-Inventory](https://github.com/anurag150304/Stock-Inventory): *\"Updated codebase\"*",
+    "🔨 Pushed to [anurag150304/Stock-Inventory](https://github.com/anurag150304/Stock-Inventory): *\"Updated codebase\"*",
+    "🚀 Created branch in [anurag150304/Stock-Inventory](https://github.com/anurag150304/Stock-Inventory)",
     "🔨 Pushed to [anurag150304/Trello](https://github.com/anurag150304/Trello): *\"Updated codebase\"*",
     "🔨 Pushed to [anurag150304/Trello](https://github.com/anurag150304/Trello): *\"Updated codebase\"*"
   ],
@@ -522,8 +522,8 @@
     }
   ],
   "quote": {
-    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
-    "author": "Martin Fowler"
+    "quote": "Simplicity is prerequisite for reliability.",
+    "author": "Edsger W. Dijkstra"
   },
   "coding": {
     "totalHours": "38 hrs 45 mins (This Week)",
@@ -551,6 +551,6 @@
       }
     ]
   },
-  "lastUpdated": "Thu, 10 Sep 2026 02:58:59 GMT",
+  "lastUpdated": "Fri, 11 Sep 2026 02:54:23 GMT",
   "generatedYear": 2026
 }
