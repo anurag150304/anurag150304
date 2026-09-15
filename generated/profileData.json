@@ -461,6 +461,14 @@
     "location": "Delhi",
     "recentRepos": [
       {
+        "name": "Trello",
+        "description": "No description provided.",
+        "url": "https://github.com/anurag150304/Trello",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0
+      },
+      {
         "name": "SEO-Management-System",
         "description": "No description provided.",
         "url": "https://github.com/anurag150304/SEO-Management-System",
@@ -483,21 +491,13 @@
         "language": "TypeScript",
         "stars": 0,
         "forks": 0
-      },
-      {
-        "name": "Trello",
-        "description": "No description provided.",
-        "url": "https://github.com/anurag150304/Trello",
-        "language": "TypeScript",
-        "stars": 0,
-        "forks": 0
       }
     ]
   },
   "activity": [
     "🔨 Pushed to [anurag150304/SEO-Management-System](https://github.com/anurag150304/SEO-Management-System): *\"Updated codebase\"*",
-    "🔨 Pushed to [anurag150304/SEO-Management-System](https://github.com/anurag150304/SEO-Management-System): *\"Updated codebase\"*",
-    "🔨 Pushed to [anurag150304/SEO-Management-System](https://github.com/anurag150304/SEO-Management-System): *\"Updated codebase\"*",
+    "🔨 Pushed to [anurag150304/Trello](https://github.com/anurag150304/Trello): *\"Updated codebase\"*",
+    "🔨 Pushed to [anurag150304/Trello](https://github.com/anurag150304/Trello): *\"Updated codebase\"*",
     "🔨 Pushed to [anurag150304/SEO-Management-System](https://github.com/anurag150304/SEO-Management-System): *\"Updated codebase\"*",
     "🔨 Pushed to [anurag150304/SEO-Management-System](https://github.com/anurag150304/SEO-Management-System): *\"Updated codebase\"*"
   ],
@@ -551,6 +551,6 @@
       }
     ]
   },
-  "lastUpdated": "Mon, 14 Sep 2026 03:16:06 GMT",
+  "lastUpdated": "Tue, 15 Sep 2026 03:18:03 GMT",
   "generatedYear": 2026
 }
