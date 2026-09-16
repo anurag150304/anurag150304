@@ -461,14 +461,6 @@
     "location": "Delhi",
     "recentRepos": [
       {
-        "name": "Trello",
-        "description": "No description provided.",
-        "url": "https://github.com/anurag150304/Trello",
-        "language": "TypeScript",
-        "stars": 0,
-        "forks": 0
-      },
-      {
         "name": "SEO-Management-System",
         "description": "No description provided.",
         "url": "https://github.com/anurag150304/SEO-Management-System",
@@ -485,6 +477,14 @@
         "forks": 0
       },
       {
+        "name": "Trello",
+        "description": "No description provided.",
+        "url": "https://github.com/anurag150304/Trello",
+        "language": "TypeScript",
+        "stars": 0,
+        "forks": 0
+      },
+      {
         "name": "Stock-Inventory",
         "description": "No description provided.",
         "url": "https://github.com/anurag150304/Stock-Inventory",
@@ -496,8 +496,8 @@
   },
   "activity": [
     "🔨 Pushed to [anurag150304/SEO-Management-System](https://github.com/anurag150304/SEO-Management-System): *\"Updated codebase\"*",
-    "🔨 Pushed to [anurag150304/Trello](https://github.com/anurag150304/Trello): *\"Updated codebase\"*",
-    "🔨 Pushed to [anurag150304/Trello](https://github.com/anurag150304/Trello): *\"Updated codebase\"*",
+    "🔨 Pushed to [anurag150304/SEO-Management-System](https://github.com/anurag150304/SEO-Management-System): *\"Updated codebase\"*",
+    "🔨 Pushed to [anurag150304/SEO-Management-System](https://github.com/anurag150304/SEO-Management-System): *\"Updated codebase\"*",
     "🔨 Pushed to [anurag150304/SEO-Management-System](https://github.com/anurag150304/SEO-Management-System): *\"Updated codebase\"*",
     "🔨 Pushed to [anurag150304/SEO-Management-System](https://github.com/anurag150304/SEO-Management-System): *\"Updated codebase\"*"
   ],
@@ -522,8 +522,8 @@
     }
   ],
   "quote": {
-    "quote": "Make it work, make it right, make it fast.",
-    "author": "Kent Beck"
+    "quote": "Simplicity is prerequisite for reliability.",
+    "author": "Edsger W. Dijkstra"
   },
   "coding": {
     "totalHours": "38 hrs 45 mins (This Week)",
@@ -551,6 +551,6 @@
       }
     ]
   },
-  "lastUpdated": "Tue, 15 Sep 2026 03:18:03 GMT",
+  "lastUpdated": "Wed, 16 Sep 2026 03:14:11 GMT",
   "generatedYear": 2026
 }
