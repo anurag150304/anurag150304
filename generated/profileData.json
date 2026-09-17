@@ -453,7 +453,7 @@
     "name": "ANURAG",
     "avatarUrl": "https://avatars.githubusercontent.com/u/112794726?v=4",
     "followers": 1,
-    "following": 1,
+    "following": 2,
     "publicRepos": 27,
     "totalStars": 0,
     "totalForks": 0,
@@ -461,18 +461,18 @@
     "location": "Delhi",
     "recentRepos": [
       {
-        "name": "SEO-Management-System",
-        "description": "No description provided.",
-        "url": "https://github.com/anurag150304/SEO-Management-System",
-        "language": "TypeScript",
-        "stars": 0,
-        "forks": 0
-      },
-      {
         "name": "anurag150304",
         "description": "No description provided.",
         "url": "https://github.com/anurag150304/anurag150304",
         "language": "JavaScript",
+        "stars": 0,
+        "forks": 0
+      },
+      {
+        "name": "SEO-Management-System",
+        "description": "No description provided.",
+        "url": "https://github.com/anurag150304/SEO-Management-System",
+        "language": "TypeScript",
         "stars": 0,
         "forks": 0
       },
@@ -522,8 +522,8 @@
     }
   ],
   "quote": {
-    "quote": "Simplicity is prerequisite for reliability.",
-    "author": "Edsger W. Dijkstra"
+    "quote": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck"
   },
   "coding": {
     "totalHours": "38 hrs 45 mins (This Week)",
@@ -551,6 +551,6 @@
       }
     ]
   },
-  "lastUpdated": "Wed, 16 Sep 2026 03:14:11 GMT",
+  "lastUpdated": "Thu, 17 Sep 2026 03:19:24 GMT",
   "generatedYear": 2026
 }
