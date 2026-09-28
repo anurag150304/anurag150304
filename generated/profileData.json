@@ -461,18 +461,18 @@
     "location": "Delhi",
     "recentRepos": [
       {
-        "name": "Excalidraw",
-        "description": "No description provided.",
-        "url": "https://github.com/anurag150304/Excalidraw",
-        "language": "TypeScript",
-        "stars": 0,
-        "forks": 0
-      },
-      {
         "name": "anurag150304",
         "description": "No description provided.",
         "url": "https://github.com/anurag150304/anurag150304",
         "language": "JavaScript",
+        "stars": 0,
+        "forks": 0
+      },
+      {
+        "name": "Excalidraw",
+        "description": "No description provided.",
+        "url": "https://github.com/anurag150304/Excalidraw",
+        "language": "TypeScript",
         "stars": 0,
         "forks": 0
       },
@@ -551,6 +551,6 @@
       }
     ]
   },
-  "lastUpdated": "Sun, 27 Sep 2026 03:33:41 GMT",
+  "lastUpdated": "Mon, 28 Sep 2026 03:31:31 GMT",
   "generatedYear": 2026
 }
