@@ -461,18 +461,18 @@
     "location": "Delhi",
     "recentRepos": [
       {
-        "name": "anurag150304",
-        "description": "No description provided.",
-        "url": "https://github.com/anurag150304/anurag150304",
-        "language": "JavaScript",
-        "stars": 0,
-        "forks": 0
-      },
-      {
         "name": "pi",
         "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
         "url": "https://github.com/anurag150304/pi",
         "language": "TypeScript",
+        "stars": 0,
+        "forks": 0
+      },
+      {
+        "name": "anurag150304",
+        "description": "No description provided.",
+        "url": "https://github.com/anurag150304/anurag150304",
+        "language": "JavaScript",
         "stars": 0,
         "forks": 0
       },
@@ -497,7 +497,7 @@
   "activity": [
     "🔨 Pushed to [anurag150304/pi](https://github.com/anurag150304/pi): *\"Updated codebase\"*",
     "🔨 Pushed to [anurag150304/pi](https://github.com/anurag150304/pi): *\"Updated codebase\"*",
-    "🔨 Pushed to [anurag150304/Excalidraw](https://github.com/anurag150304/Excalidraw): *\"Updated codebase\"*",
+    "🔨 Pushed to [anurag150304/pi](https://github.com/anurag150304/pi): *\"Updated codebase\"*",
     "🔨 Pushed to [anurag150304/Excalidraw](https://github.com/anurag150304/Excalidraw): *\"Updated codebase\"*",
     "🔨 Pushed to [anurag150304/Excalidraw](https://github.com/anurag150304/Excalidraw): *\"Updated codebase\"*"
   ],
@@ -551,6 +551,6 @@
       }
     ]
   },
-  "lastUpdated": "Fri, 02 Oct 2026 03:58:01 GMT",
+  "lastUpdated": "Sat, 03 Oct 2026 03:42:40 GMT",
   "generatedYear": 2026
 }
