@@ -522,8 +522,8 @@
     }
   ],
   "quote": {
-    "quote": "First, solve the problem. Then, write the code.",
-    "author": "John Johnson"
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler"
   },
   "coding": {
     "totalHours": "38 hrs 45 mins (This Week)",
@@ -551,6 +551,6 @@
       }
     ]
   },
-  "lastUpdated": "Mon, 05 Oct 2026 03:56:40 GMT",
+  "lastUpdated": "Tue, 06 Oct 2026 04:45:54 GMT",
   "generatedYear": 2026
 }
