@@ -522,8 +522,8 @@
     }
   ],
   "quote": {
-    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
-    "author": "Martin Fowler"
+    "quote": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck"
   },
   "coding": {
     "totalHours": "38 hrs 45 mins (This Week)",
@@ -551,6 +551,6 @@
       }
     ]
   },
-  "lastUpdated": "Tue, 13 Oct 2026 05:22:45 GMT",
+  "lastUpdated": "Wed, 14 Oct 2026 03:27:02 GMT",
   "generatedYear": 2026
 }
