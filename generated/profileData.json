@@ -452,7 +452,7 @@
     "username": "anurag150304",
     "name": "ANURAG",
     "avatarUrl": "https://avatars.githubusercontent.com/u/112794726?v=4",
-    "followers": 2,
+    "followers": 1,
     "following": 2,
     "publicRepos": 27,
     "totalStars": 0,
@@ -522,8 +522,8 @@
     }
   ],
   "quote": {
-    "quote": "Simplicity is prerequisite for reliability.",
-    "author": "Edsger W. Dijkstra"
+    "quote": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck"
   },
   "coding": {
     "totalHours": "38 hrs 45 mins (This Week)",
@@ -551,6 +551,6 @@
       }
     ]
   },
-  "lastUpdated": "Mon, 26 Oct 2026 03:06:29 GMT",
+  "lastUpdated": "Tue, 27 Oct 2026 03:37:23 GMT",
   "generatedYear": 2026
 }
