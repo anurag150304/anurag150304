@@ -495,8 +495,11 @@
     ]
   },
   "activity": [
-    "⭐ Starred repository [FailproofAI/failproofai](https://github.com/FailproofAI/failproofai)",
-    "⭐ Starred repository [corsairdev/corsair](https://github.com/corsairdev/corsair)"
+    "🚀 Architected real-time Inventory Stock Management System with WebSockets & Optimistic Concurrency Control",
+    "⚡ Scaled enterprise platforms (HRMS & CRM) supporting 100+ active users",
+    "📦 Published reusable TypeScript utility modules & Prisma database migrations",
+    "⚙️ Configured Docker containers & CI/CD workflows for automated deployments",
+    "📚 Deepening knowledge in Distributed Systems, Redis Pub/Sub & Microservices Architecture"
   ],
   "blog": [
     {
@@ -519,8 +522,8 @@
     }
   ],
   "quote": {
-    "quote": "First, solve the problem. Then, write the code.",
-    "author": "John Johnson"
+    "quote": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck"
   },
   "coding": {
     "totalHours": "38 hrs 45 mins (This Week)",
@@ -548,6 +551,6 @@
       }
     ]
   },
-  "lastUpdated": "Sat, 14 Nov 2026 04:51:09 GMT",
+  "lastUpdated": "Sun, 15 Nov 2026 04:43:16 GMT",
   "generatedYear": 2026
 }
