@@ -522,8 +522,8 @@
     }
   ],
   "quote": {
-    "quote": "Make it work, make it right, make it fast.",
-    "author": "Kent Beck"
+    "quote": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson"
   },
   "coding": {
     "totalHours": "38 hrs 45 mins (This Week)",
@@ -551,6 +551,6 @@
       }
     ]
   },
-  "lastUpdated": "Sun, 15 Nov 2026 04:43:16 GMT",
+  "lastUpdated": "Mon, 16 Nov 2026 04:40:07 GMT",
   "generatedYear": 2026
 }
