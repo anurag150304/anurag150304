@@ -522,8 +522,8 @@
     }
   ],
   "quote": {
-    "quote": "Make it work, make it right, make it fast.",
-    "author": "Kent Beck"
+    "quote": "Simplicity is prerequisite for reliability.",
+    "author": "Edsger W. Dijkstra"
   },
   "coding": {
     "totalHours": "38 hrs 45 mins (This Week)",
@@ -551,6 +551,6 @@
       }
     ]
   },
-  "lastUpdated": "Fri, 27 Nov 2026 06:38:05 GMT",
+  "lastUpdated": "Sat, 28 Nov 2026 06:11:57 GMT",
   "generatedYear": 2026
 }
